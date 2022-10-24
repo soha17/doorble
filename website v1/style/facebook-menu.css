@@ -1,7 +1,7 @@
 /* Facebook Menu */
-.content-grid .column-left {
+/* .content-grid .column-left {
   /* background: pink; */
-}
+} */
 .content-grid .column-left .fixed-area {
   /* background: green; */
   position: sticky;
@@ -55,7 +55,6 @@
   display: block;
   font-size: 17px;
   font-weight: 600;
-  background-color: #2e2df7;
   color: var(--secondary-text);
 }
 .content-grid .column-left .shortcuts img {

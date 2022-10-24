@@ -29,6 +29,8 @@
   font-weight: 400;
   line-height: 16px;
 }
+
+
 .post-body {
   font-weight: 400;
   font-size: 15px;
@@ -52,6 +54,7 @@
   line-height: 20px;
   text-transform: uppercase;
 }
+
 .post-image .excerpt h3 {
   color: var(--primary-text);
   font-size: 17px;

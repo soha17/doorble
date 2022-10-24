@@ -1,6 +1,7 @@
 /* new-post-action */
 .new-post-action {
   display: flex;
+  justify-content: space-between;
 }
 .new-post-action .my-profile {
   width: 40px;

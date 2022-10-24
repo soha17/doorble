@@ -3,12 +3,8 @@
   grid-template-columns: 1fr minmax(0, 3fr) 1fr;
   column-gap: 32px;
 }
-@media only screen and (max-width: 1300px) {
-  .content-grid {
-    grid-template-columns: 1fr minmax(0, 2fr) 1fr;
-  }
-}
-@media only screen and (max-width: 1080px) {
+
+@media only screen {
   .content-grid {
     grid-template-columns: minmax(0, 1fr);
   }

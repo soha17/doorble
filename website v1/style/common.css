@@ -33,4 +33,11 @@ img {
     background: blue;
   }
 }
-
+/* .mobile-only {
+  display: none;
+}
+@media only screen and (max-width: 700px) {
+  .mobile-only {
+    display: initial;
+  }
+} */

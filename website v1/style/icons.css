@@ -4,6 +4,50 @@
 .fill-secondary-icon {
   fill: var(--secondary-icon);
 }
+
+
+
+.doorble-icon {
+  background-position: 0 -570px;
+  background-image: url("../images/doorble_icon.jpg");
+  background-size: 25px 1070px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+.post-icon {
+  background-position: 0 -570px;
+  background-color: #3002f8;
+  background-size: 25px 1070px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 24px;
+  width: 80px;
+  border-radius: 5px;
+  align-items: right;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 12px;
+  text-align: center;	
+  left: 0;
+  
+}
+
+
+.search-icon {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -828px;
+  background-image: url("../images/icons.png");
+  background-size: 25px 1070px;
+  filter: var(--filter-secondary-icon);
+}
+.location-icon {
+  height: 24px;
+  width: 24px;
+  background-image: url("../images/location-icon.jpg");
+}
 .plus-icon {
   background-position: 0 -570px;
   background-image: url("../images/icons.png");
@@ -31,31 +75,7 @@
   height: 20px;
   width: 20px;
 }
-.dropdown-icon {
-  background-position: 0 -96px;
-  background-image: url("../images/icons2.png");
-  background-size: 33px 236px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  height: 20px;
-  width: 20px;
-}
-.search-icon {
-  width: 16px;
-  height: 16px;
-  background-position: 0 -828px;
-  background-image: url("../images/icons.png");
-  background-size: 25px 1070px;
-  filter: var(--filter-secondary-icon);
-}
-.live-video-icon {
-  height: 24px;
-  width: 24px;
-  background-image: url("../images/icons3.png");
-  background-size: 25px 265px;
-  display: inline-block;
-  background-position: 0 -25px;
-}
+
 .photo-video-icon {
   height: 24px;
   width: 24px;
@@ -72,23 +92,17 @@
   display: inline-block;
   background-position: 0 -50px;
 }
-.create-room-icon {
-  height: 24px;
-  width: 24px;
-  background-image: url("../images/icons3.png");
-  background-size: 25px 265px;
+
+.ad-icon {
+  width: 20px;
+  height: 17px;
+  background-image: url("../images/ad-icon.jpg");
+  background-size: contain;
   display: inline-block;
-  background-position: 0 0;
-  margin-right: 8px;
+  /* background-position: -34px -350px; */
 }
-.verified-icon {
-  width: 12px;
-  height: 12px;
-  background-image: url("../images/icons4.png");
-  background-size: 73px 406px;
-  display: inline-block;
-  background-position: -34px -350px;
-}
+
+
 .post-settings-icon {
   height: 12px;
   width: 12px;
@@ -98,6 +112,12 @@
   background-position: 0 -699px;
   filter: var(--filter-secondary-icon);
 }
+
+
+
+
+
+/* HELP HERE PLS */
 .post-menu-icon {
   width: 20px;
   height: 20px;
@@ -107,6 +127,72 @@
   background-position: 0 -232px;
   filter: var(--filter-secondary-icon);
 }
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown-ads {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content-ads {
+  display: none;
+  position: relative;
+  /* background-color: #e4e6e9; */
+  width: 100px;
+  z-index: 1;
+  position: float;
+}
+
+/* Links inside the dropdown */
+.dropdown-content-ads a {
+  color: black;
+  padding: 5px 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content-ads a:hover {
+  background: #555;
+  color: #fff;
+  width: 100%
+}
+
+
+/* for location*/
+.dropdown-loc {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content-loc {
+  display: none;
+  position: relative;
+  /* background-color: #e4e6e9; */
+  width: 100px;
+  z-index: 1;
+  position: float;
+}
+
+/* Links inside the dropdown */
+.dropdown-content-loc a {
+  color: blue;
+  padding: 5px 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content-loc a:hover {
+  color: blue;
+  width: 100%
+}
+
+
+
 .post-info-icon {
   background-image: url("../images/icons5.png");
   width: 20px;
@@ -115,6 +201,7 @@
   background-size: 25px 725px;
   display: inline-block;
 }
+
 .like-icon {
   background-image: url("../images/icons5.png");
   width: 18px;
@@ -226,4 +313,100 @@
   background-repeat: no-repeat;
   display: inline-block;
   filter: var(--filter-primary-icon);
+}
+
+/* Help center buttons */
+
+.helpcenter-btn {
+  appearance: button;
+  backface-visibility: hidden;
+  background-color: #3002f8;
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;;
+  font-size: 100%;
+  height: 44px;
+  line-height: 1.15;
+  margin: 12px 0 0;
+  outline: none;
+  overflow: hidden;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 49%;
+  height:100px;
+}
+
+.helpcenter-btn:disabled {
+  cursor: default;
+}
+
+.helpcenter-btn:focus {
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+}
+
+
+
+
+/* Settings */
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+body {
+	background: #f9f9f9;
+	font-family: "Roboto", sans-serif;
+}
+
+.shadow {
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+.profile-tab-nav {
+	min-width: 250px;
+}
+
+.tab-content {
+	flex: 1;
+}
+
+.form-group {
+	margin-bottom: 1.5rem;
+}
+
+.nav-pills a.nav-link {
+	padding: 15px 20px;
+	border-bottom: 1px solid #ddd;
+	border-radius: 0;
+	color: #333;
+}
+.nav-pills a.nav-link i {
+	width: 20px;
+}
+
+.nav-pills a.nav-link-priv {
+	padding: 15px 20px;
+  width:100%;
+	border-bottom: 1px solid #ddd;
+	border-radius: 0;
+	color: #333;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-pills a.nav-link-priv i {
+	width: 20px;
+}
+
+.img-circle img {
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border: 5px solid #fff;
 }
