@@ -43,7 +43,7 @@
   background-size: 25px 1070px;
   filter: var(--filter-secondary-icon);
 }
-.location-icon {
+.location-icon:hover {
   height: 24px;
   width: 24px;
   background-image: url("../images/location-icon.jpg");

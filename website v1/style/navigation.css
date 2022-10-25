@@ -113,6 +113,23 @@ nav .column-right {
   margin-left: 8px;
   float:right;
 }
+
+.hide {
+  display: none;
+}
+
+.popup {
+  visibility: hidden
+}
+
+.location-icon:hover .popup{
+  visibility: visible
+}
+
+/* .location-icon:hover + .hide {
+  display: block;
+  color: red;
+} */
 /* .dropbtn {
   background-position: 0 -96px;
   background-image: url("../images/icons2.png");
