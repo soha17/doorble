@@ -123,6 +123,7 @@
   border: none;
   width: 20px;
   height: 20px;
+  background: none;
   background-image: url("../images/icons4.png");
   background-size: 73px 406px;
   display: inline-block;
