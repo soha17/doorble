@@ -43,11 +43,11 @@
   background-size: 25px 1070px;
   filter: var(--filter-secondary-icon);
 }
-.location-icon {
+/* .location-icon:hover {
   height: 24px;
   width: 24px;
   background-image: url("../images/location-icon.jpg");
-}
+} */
 .plus-icon {
   background-position: 0 -570px;
   background-image: url("../images/icons.png");
@@ -119,13 +119,16 @@
 
 /* HELP HERE PLS */
 .post-menu-icon {
+  padding: 0;
+  border: none;
   width: 20px;
   height: 20px;
+  background: none;
   background-image: url("../images/icons4.png");
   background-size: 73px 406px;
   display: inline-block;
   background-position: 0 -232px;
-  filter: var(--filter-secondary-icon);
+  
 }
 
 
