@@ -119,13 +119,15 @@
 
 /* HELP HERE PLS */
 .post-menu-icon {
+  padding: 0;
+  border: none;
   width: 20px;
   height: 20px;
   background-image: url("../images/icons4.png");
   background-size: 73px 406px;
   display: inline-block;
   background-position: 0 -232px;
-  filter: var(--filter-secondary-icon);
+  
 }
 
 
