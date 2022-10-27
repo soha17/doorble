@@ -100,9 +100,7 @@ nav .column-right {
 .location-icon {
   padding: 0;
   border: none;
-  height: 100px;
-  width: 100px;
-  background-image: url("../images/location-icon.jpg");
+  /* background-image: url("../images/location-icon.jpg"); */
 }
 .action-button {
   width: 40px;
