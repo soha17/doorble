@@ -5,12 +5,58 @@ body {
   text-decoration-thickness: auto;
   -webkit-font-smoothing: antialiased;
   color: #1c1e21;
+  line-height: 1.2
+
 }
 * {
   font-family: var(--font-family-apple);
   text-decoration-thickness: auto;
   -webkit-font-smoothing: antialiased;
 }
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18x;
+  font-weight: bold;
+  white-space: pre-line;
+  margin-top: 0.75em;
+
+}
+h3 {
+  margin-top: 0.65em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  display: inline-block;
+ }
+
+ol {
+  list-style-type: circle; 
+  margin-top: 0.25em;
+}
+
+
+ol li {
+  margin: 0px;
+  padding: 0px;
+  /* text-indent: 1.5em; */
+  margin-left: 2em;
+  font-size: 15.5px;
+  line-height: 1.5
+  
+}
+
+.num {
+  list-style-type: decimal;
+}
+
 svg,
 img {
   display: block;
@@ -30,7 +76,7 @@ img {
 @media only screen and (max-width: 1080px) {
   .desktop-tablet-only {
     display: none;
-    background: blue;
+    background: #3002f8;
   }
 }
 /* .mobile-only {

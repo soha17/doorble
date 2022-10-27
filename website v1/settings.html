@@ -19,7 +19,7 @@
     <style nonce="">
     </style>
   </head>
-<body>
+<body style="margin-top: -3em;">
     <nav>
         <div class="column-left">
           <a href="./homepage.html" style="text-decoration:none;" class="doorble-logo">
@@ -56,11 +56,11 @@
 				<div class="profile-tab-nav border-right">
 					
 					<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical" aria-selected="false">
-						<a class="nav-link active" id="account-tab" data-toggle="pill" href="#account" role="tab" aria-controls="account" aria-selected="true">
+						<a class="nav-link" id="account-tab" data-toggle="pill" href="#account" role="tab" aria-controls="account" aria-selected="true">
 							<i class="fa fa-home text-center mr-1"></i> 
 							Account
 						</a>
-						<a class="nav-link" id="Privacy-tab" data-toggle="pill" href="#Privacy" role="tab" aria-controls="Privacy" >
+						<a class="nav-link active" id="Privacy-tab" data-toggle="pill" href="#Privacy" role="tab" aria-controls="Privacy" >
 							<i class="fa fa-key text-center mr-1"></i> 
 							Privacy
 						</a>
@@ -72,7 +72,7 @@
 					</div>
 				</div>
 				<div class="tab-content p-4 p-md-5" id="v-pills-tabContent">
-					<div class="tab-pane fade show active" id="account" role="tabpanel" aria-labelledby="account-tab">
+					<div class="tab-pane fade" id="account" role="tabpanel" aria-labelledby="account-tab">
 						<h3 class="mb-4">Account Settings</h3>
 						<div class="row">
 							<div class="col-md-6">
@@ -123,7 +123,7 @@
 							<button class="btn btn-light">Cancel</button>
 						</div>
 					</div>
-					<div class="tab-pane fade" id="Privacy" role="tabpanel" aria-labelledby="Privacy-tab">
+					<div class="tab-pane fade show active" id="Privacy" role="tabpanel" aria-labelledby="Privacy-tab">
 						<h3 class="mb-4">Privacy Settings</h3>
 						<div class="nav flex-column nav-pills-priv" id="v-pills-tab" role="tablist" aria-orientation="vertical" aria-selected="false"></div>
                         <a class="nav-link-priv" id="advertising-tab" data-toggle="pill" onclick="privacy_education_ads()"role="tab" aria-controls="#Advertising" aria-selected="true">
@@ -132,15 +132,84 @@
                                 <i class="dropbtn"></i> 
                             </div>
 						</a>
-                        <p id="ads_education">Personalized advertising education text.</p>
+                        <p id="ads_education">
+							<label class="switch">
+								<input type="checkbox">
+								<span class="slider round"></span>
+							  </label>
+							  Allow personalized advertising
 
+						</p>
+						<br>
 						<a class="nav-link-priv" id="Location-tab" data-toggle="pill" onclick="privacy_education_loc()" role="tab" aria-controls="Location" aria-selected="false">
 							<div class="new-post-action">
                                 <p style="font:bold; color: #3002f8">Location Data</p>
                                 <i class="dropbtn"></i> 
                             </div>
 						</a>
-                        <p id="location_education">Location education text.</p>
+                        <p id="location_education">
+							<label class="switch">
+								<input type="checkbox">
+								<span class="slider round"></span>
+							  </label>
+							  Share Location data
+						
+						</p>
+						
+						<br>
+						<a class="nav-link-priv" id="Tagging-tab" data-toggle="pill" onclick="privacy_education_tag()" role="tab" aria-controls="Tag" aria-selected="false">
+							<div class="new-post-action">
+                                <p style="font:bold; color: #3002f8">Audience & Tagging</p>
+                                <i class="dropbtn"></i> 
+                            </div>
+						</a>
+						
+                        <p id="tag_education"> 
+							Manage what information you allow other people on Doorble to see.
+							<br><br>
+							<label class="switch">
+								<input type="checkbox">
+								<span class="slider round"></span>
+							  </label>
+							  Protect your posts
+							<br>When selected, your posts and other account information are only visible to people who follow you. 
+							<br><br>
+							<label class="switch">
+								<input type="checkbox">
+								<span class="slider round"></span>
+							  </label>
+							  Photo tagging
+
+							<br>Allow people to tag you in their photos and receive notifications when they do so.
+						</p>
+						<br>
+						<a class="nav-link-priv" id="contacts-tab" data-toggle="pill" onclick="privacy_education_contacts()" role="tab" aria-controls="Tag" aria-selected="false">
+							<div class="new-post-action">
+                                <p style="font:bold; color: #3002f8">Discoverability & Contacts</p>
+                                <i class="dropbtn"></i> 
+                            </div>
+						</a>
+						
+                        <p id="contacts_education">
+							Decide whether people who have your email address or phone number can find and connect with you on Doorble.
+							<br><br>
+							<label class="switch">
+								<input type="checkbox">
+								<span class="slider round"></span>
+							  </label>
+							  Let people who have your email address find you on Doorble
+
+							<br>Let people who have your email address find and connect with you on Doorble. 
+							
+							<br><br>
+							<label class="switch">
+								<input type="checkbox">
+								<span class="slider round"></span>
+							  </label> 
+							Let people who have your phone number find you on Doorble
+							
+							<br>Let people who have your phone number find and connect with you on Doorble.
+						</p>
 
 					</div>
 					<div class="tab-pane fade" id="Activity" role="tabpanel" aria-labelledby="Activity-tab">
@@ -188,6 +257,3 @@
     </body>
     
     </html>
-
-</body>
-</html>
