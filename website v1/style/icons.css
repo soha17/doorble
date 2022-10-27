@@ -43,11 +43,11 @@
   background-size: 25px 1070px;
   filter: var(--filter-secondary-icon);
 }
-.location-icon:hover {
+/* .location-icon:hover {
   height: 24px;
   width: 24px;
   background-image: url("../images/location-icon.jpg");
-}
+} */
 .plus-icon {
   background-position: 0 -570px;
   background-image: url("../images/icons.png");
