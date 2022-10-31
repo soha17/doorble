@@ -98,19 +98,45 @@ function randomization(condition) {
   // condition 1-9 will dictate where completion page is placed
   let code = Math.floor(Math.random() * 90000) + 10000;
 
-
   // let clickHref = "location.href='./completion.html'" + '?code=' + code
   switch (condition) {
     case 1:
-    //set location.href of registration page to completion.html
+      //set location.href of registration page to completion.html
+      let finishRegistrationButton = document.createElement("button")
+      finishRegistrationButton.type = "submit"
+      finishRegistrationButton.classList.add("registerbtn")
+      finishRegistrationButton.textContent = "Finish Registration"
+      finishRegistrationButton.onclick = function() {
+        location.href = './completion.html'
+      }
+      let postBody = document.getElementById("post-body-ads")
+      postBody.appendChild(finishRegistrationButton)
+      break;
     case 2:
-    //set location.href of registration page to completion.html
+      //set location.href of registration page to completion.html
+      if (document.getElementById("registerbtn") != null){
+        let registerButton = document.getElementById("registerbtn")
+      registerButton.onclick = function (){
+        location.href = './loc_sft_img.html'
+      }
+      }
+      let finishRegistrationButtonLoc = document.createElement("button")
+      finishRegistrationButtonLoc.type = "submit"
+      finishRegistrationButtonLoc.classList.add("registerbtn")
+      finishRegistrationButtonLoc.textContent = "Finish Registration"
+      finishRegistrationButtonLoc.onclick = function() {
+        location.href = './completion.html'
+      }
+      let postBodyLoc = document.getElementById("post-body-loc")
+      postBodyLoc.appendChild(finishRegistrationButtonLoc)
+      break;
     case 3:
       //set location.href of "open up" on homepage to completion.html
       let openUpButton = document.getElementById("openUp");
       openUpButton.onclick = function () {
         location.href = './completion.html'
       }
+      break;
     case 4:
       //help center
       let hcAdvertisements = document.getElementById("hcAdvertisements")
@@ -122,6 +148,7 @@ function randomization(condition) {
       hcLocation.onclick = function () {
         location.href = './loc_sft_img.html'
       }
+      break;
     case 5:
       //help center
       let hcAdvertisements5 = document.getElementById("hcAdvertisements")
@@ -134,41 +161,50 @@ function randomization(condition) {
       hcLocation5.onclick = function () {
         location.href = './loc_lft_video.html'
       }
+      break;
     case 6:
       //settings
       let settingsAds = document.getElementById("adSlider")
       settingsAds.onclick = function () {
         let div = document.createElement("div")
-        div.textContent = code
+        let button = document.createElement("button")
+        button.textContent = "Complete Task"
+        button.onclick = function () {
+          location.href = './completion.html'
+        }
+        div.appendChild(button)
         document.getElementById("ads_education").appendChild(div)
       }
       let settingsLoc = document.getElementById("locSlider")
       settingsLoc.onclick = function () {
         let div = document.createElement("div")
-        div.textContent = code
+        let button = document.createElement("button")
+        button.textContent = "Complete Task"
+        button.onclick = function () {
+          location.href = './completion.html'
+        }
+        div.appendChild(button)
         document.getElementById("location_education").appendChild(div)
       }
-
+      break;
     case 7:
-    //in feed
+      //in feed
+      break;
     case 8:
-    //in feed
+      //in feed
+      break;
     case 9:
-    //in feed
+      //in feed
+      break;
   }
 }
-//TODO: check if the onload should be for a specific page e.g., helpcenter
 window.onload = function () {
-  // //Get url parameters to assign condition
-  // const params = new Proxy(new URLSearchParams(window.location.search), {
-  //   get: (searchParams, prop) => searchParams.get(prop),
-  // });
-  // // Get the value of "some_key" in eg "https://example.com/?some_key=some_value"
-  // let value = params.rd; // "some_value"
-  // randomization(value)
-  // randomization(3)
-  randomization(4)
-  // randomization(5)
-  // randomization(6)
+  //Get url parameters to assign condition
+  const params = new Proxy(new URLSearchParams(window.location.search), {
+    get: (searchParams, prop) => searchParams.get(prop),
+  });
+  // Get the value of "some_key" in eg "https://example.com/?some_key=some_value"
+  let value = params.rd; // "some_value"
 
+  randomization(2)
 }
