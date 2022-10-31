@@ -6,7 +6,7 @@
 <!-- <link rel="stylesheet" href=""> -->
 <style>
 </style>
-<script src="script.js"></script>
+
 
 <head>
     <meta charset="UTF-8">
@@ -16,6 +16,8 @@
     <link rel="stylesheet" href="./style/style.css" />
     <style nonce="">
     </style>
+    <script src="script.js"></script>
+    <script src="jquery-3.6.0.min.js"></script>
   </head>
 <body>
     <nav>
@@ -63,8 +65,8 @@
             <div class="card post">
               <div class="post-header" style="text-align: center; font-size: 35px;">Help Center</div>
               <p class="post-body">  
-                <button value="ads" onclick="location.href='#'" class="helpcenter-btn">Advertisements</button>
-                <button value="location" onclick="location.href='#'" class="helpcenter-btn">Location</button> 
+                <button id="hcAdvertisements" value="ads" onclick="location.href='#'" class="helpcenter-btn">Advertisements</button>
+                <button id="hcLocation" value="location" onclick="location.href='#'" class="helpcenter-btn">Location</button> 
                 <br>
                 <button value="sharing" onclick="location.href='#'" class="helpcenter-btn">Sharing</button>
                 <button value="security" onclick="location.href='#'" class="helpcenter-btn">Security</button>

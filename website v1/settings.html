@@ -8,7 +8,6 @@
 <!-- <link rel="stylesheet" href=""> -->
 <style>
 </style>
-<script src="script.js"></script>
 
 <head>
     <meta charset="UTF-8">
@@ -18,6 +17,8 @@
     <link rel="stylesheet" href="./style/style.css" />
     <style nonce="">
     </style>
+	<script src="script.js"></script>
+	<script src="jquery-3.6.0.min.js"></script>
   </head>
 <body style="margin-top: -3em;">
     <nav>
@@ -134,7 +135,7 @@
 							<br><br>
 							<label class="switch">
 								<input type="checkbox">
-								<span class="slider round"></span>
+								<span id="adSlider" class="slider round"></span>
 							  </label>
 							  Allow personalized advertising
 							  <br> When selected, you agree to some of your activity (e.g. pages you’ve liked, information on your Profile, 
@@ -156,7 +157,7 @@
 							<br><br>
 							<label class="switch">
 								<input type="checkbox">
-								<span class="slider round"></span>
+								<span id="locSlider" class="slider round"></span>
 							  </label>
 							  Share Location data
 							  <br> When selected, you agree to share your location with Doorble. We use location-related information only 
