@@ -70,33 +70,21 @@ function hideAd() {
     };
 }
 
+function changeColor(image) {
+  if (image.src.indexOf("images/like_icon.png")>-1) {
+      image.src = "images/like_icon_liked.png"; 
+  } else {
+      image.src = "images/like_icon.png";
+  }
+}
 
-// function privacy_education_loc() {
-//   var selectedobj = document.getElementById('location_education');
-
-//   if (selectedobj.className == 'hide') {  //check if classname is hide 
-//     selectedobj.style.display = "block";
-//     selectedobj.readOnly = true;
-//     selectedobj.className = 'show';
-//   } else {
-//     selectedobj.style.display = "none";
-//     selectedobj.className = 'hide';
-//   }
-// }
-
-// function privacy_education_ads() {
-
-//   var selectedobj = document.getElementById('ads_education');
-
-//   if (selectedobj.className == 'hide') {  //check if classname is hide 
-//     selectedobj.style.display = "block";
-//     selectedobj.readOnly = true;
-//     selectedobj.className = 'show';
-//   } else {
-//     selectedobj.style.display = "none";
-//     selectedobj.className = 'hide';
-//   }
-// }
+function changeColor_dislike(image) {
+  if (image.src.indexOf("images/dislike_icon.png")>-1) {
+      image.src = "images/dislike_icon_disliked.png"; 
+  } else {
+      image.src = "images/dislike_icon.png";
+  }
+}
 
 function location_icon() {
   var x = document.getElementById('location-icon-text');
