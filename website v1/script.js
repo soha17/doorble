@@ -57,33 +57,46 @@ function ddl_loc() {
     }
   }
 }
-
-function privacy_education_loc() {
-  var selectedobj = document.getElementById('location_education');
-
-  if (selectedobj.className == 'hide') {  //check if classname is hide 
-    selectedobj.style.display = "block";
-    selectedobj.readOnly = true;
-    selectedobj.className = 'show';
-  } else {
-    selectedobj.style.display = "none";
-    selectedobj.className = 'hide';
-  }
+function hideAd() {
+    // document.getElementById('furniture_ad').style.display = "block";
+    const targetDiv = document.getElementById("furniture_ad");
+    const btn = document.getElementById("hide_ad");
+    btn.onclick = function () {
+      if (targetDiv.style.display !== "none") {
+        targetDiv.style.display = "none";
+      } else {
+        targetDiv.style.display = "block";
+      }
+    };
 }
 
-function privacy_education_ads() {
 
-  var selectedobj = document.getElementById('ads_education');
+// function privacy_education_loc() {
+//   var selectedobj = document.getElementById('location_education');
 
-  if (selectedobj.className == 'hide') {  //check if classname is hide 
-    selectedobj.style.display = "block";
-    selectedobj.readOnly = true;
-    selectedobj.className = 'show';
-  } else {
-    selectedobj.style.display = "none";
-    selectedobj.className = 'hide';
-  }
-}
+//   if (selectedobj.className == 'hide') {  //check if classname is hide 
+//     selectedobj.style.display = "block";
+//     selectedobj.readOnly = true;
+//     selectedobj.className = 'show';
+//   } else {
+//     selectedobj.style.display = "none";
+//     selectedobj.className = 'hide';
+//   }
+// }
+
+// function privacy_education_ads() {
+
+//   var selectedobj = document.getElementById('ads_education');
+
+//   if (selectedobj.className == 'hide') {  //check if classname is hide 
+//     selectedobj.style.display = "block";
+//     selectedobj.readOnly = true;
+//     selectedobj.className = 'show';
+//   } else {
+//     selectedobj.style.display = "none";
+//     selectedobj.className = 'hide';
+//   }
+// }
 
 function location_icon() {
   var x = document.getElementById('location-icon-text');
