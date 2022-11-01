@@ -207,20 +207,15 @@
 }
 
 .like-icon {
-  background-image: url("../images/icons5.png");
   width: 18px;
   height: 18px;
-  background-position: 0 -172px;
-  background-size: 25px 725px;
-  display: inline-block;
-  filter: var(--filter-secondary-icon);
 }
+
 .comment-icon {
-  background-image: url("../images/icons5.png");
+  background-image: url("../images/comment-icon.png");
   width: 18px;
-  height: 18px;
-  background-position: 0 -172px;
-  background-size: 25px 725px;
+  height: 16px;
+  background-size: 18px 16px; 
   display: inline-block;
   filter: var(--filter-secondary-icon);
 }
