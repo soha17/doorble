@@ -86,6 +86,18 @@ function changeColor_dislike(image) {
   }
 }
 
+function changeColor_loc(image) {
+
+  if (image.src.indexOf("images/location-icon.png")>-1) {
+      image.src = "images/location-icon-off.png";
+      document.getElementById("loc_status").innerHTML = 'Location Sharing: OFF';
+
+  } else {
+      image.src = "images/location-icon.png";
+      document.getElementById("loc_status").innerHTML = 'Location Sharing: ON ';
+  }
+}
+
 function location_icon() {
   var x = document.getElementById('location-icon-text');
   if (x.style.display === "none") {
