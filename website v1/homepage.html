@@ -68,22 +68,19 @@
           </div>
           <br>
             <div class="new-post-action">
-              <!-- <img src="images/location-icon.jpg" class="location-icon" onClick="ddl_loc()"/>
-
-              <ul><src="images/location-icon.jpg" class="location-icon" onclick="ddl_loc()">  </ul>
-                <div id="myDropdown_loc" class="dropdown-content-ads">
-                  <div id="location-icon-text">Add your location. Learn more about education sharing <a href="loc_lft.html">here</a>.</div>                  
-                </div>
-              </ul> -->
-              <!-- <div id="location-icon" img src="images/location-icon.jpg" height="24px" width="24px"> 
-                <img src="images/location-icon.jpg" height="24px" width="24px" /> -->
-                <!-- <div class="hide">I am shown when avbcasßsomeone hovers over the div above.</div>   -->
-              <!-- </div> -->
-              <div class="dropdown">
-                <img src="images/location-icon.jpg" class="location-icon" height="25px" width="25px" />
+             <img src="images/location-icon.png" class="location-icon" height="25px" width="25px" onclick = "changeColor_loc(this)"/>
                 <div class="loc-dropdown-content">
-                  <a href="loc_lft.html">Add your location. Click to learn more about location sharing.</a>
+                  <a href="loc_lft.html" style="font-size: 12px;">
+                    We use location-related information only if you turn on the Location setting. <br>
+                    This includes things like your GPS location and, depending on the operating system  <br>
+                    you're using, other device signals. You can manage your Location settings here   <br>
+                    or under Settings. 
+                    Learn more about <u>our location data practices</u>.  
+                  </a>
                 </div>
+              </div>
+              <div id="loc_status" style="margin-top: 5px; margin-left: -400px; display: inline-block; font-size: 13px;"> 
+              Location Sharing:  ON 
               </div>
               <button class="post-icon" id="openUp" type="button">Open Up</button>
             </div>
