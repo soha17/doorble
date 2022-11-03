@@ -32,5 +32,13 @@
 /* Completion Message */
 .completion-message {
   border: 5px solid red;
-  border-color: red;
+}
+
+.loc-dropdown-content {
+  display: none
+}
+
+.location-icon:hover + .loc-dropdown-content {
+  display: block;
+  margin-top: 20px;
 }
