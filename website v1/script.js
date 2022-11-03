@@ -58,16 +58,16 @@ function ddl_loc() {
   }
 }
 function hideAd() {
-    // document.getElementById('furniture_ad').style.display = "block";
-    const targetDiv = document.getElementById("furniture_ad");
-    const btn = document.getElementById("hide_ad");
-    btn.onclick = function () {
-      if (targetDiv.style.display !== "none") {
-        targetDiv.style.display = "none";
-      } else {
-        targetDiv.style.display = "block";
-      }
-    };
+  // document.getElementById('furniture_ad').style.display = "block";
+  const targetDiv = document.getElementById("furniture_ad");
+  const btn = document.getElementById("hide_ad");
+  btn.onclick = function () {
+    if (targetDiv.style.display !== "none") {
+      targetDiv.style.display = "none";
+    } else {
+      targetDiv.style.display = "block";
+    }
+  };
 }
 
 function changeColor(image) {
@@ -108,71 +108,160 @@ function location_icon() {
 }
 
 function randomization(condition) {
-  // condition 1-9 will dictate where completion page is placed
-  let code = Math.floor(Math.random() * 90000) + 10000;
-
-  // let clickHref = "location.href='./completion.html'" + '?code=' + code
+  // condition 1-9 will dictate where completion code appears
+  let completionDiv = document.createElement("div")
+  completionDiv.classList.add("completion-message")
   switch (condition) {
     case 1:
-      //set location.href of registration page to completion.html
+      if (document.getElementById("registerbtn") != null) {
+        let continueInRegistrationButton = document.getElementById("registerbtn")
+        continueInRegistrationButton.onclick = function () {
+          location.href = './ads_sft_img.html?rd=1'
+        }
+      }
+
+      let continueInRegistrationButton = document.createElement("button")
+      continueInRegistrationButton.type = "submit"
+      continueInRegistrationButton.classList.add("registerbtn")
+      continueInRegistrationButton.textContent = "Continue"
+      continueInRegistrationButton.id = "continueInRegistration1"
+      
+      if (document.getElementById("post-body-ads") != null){
+        let postBody = document.getElementById("post-body-ads")
+        postBody.appendChild(continueInRegistrationButton)
+      }
+      
+
+      continueInRegistrationButton.onclick = function () {
+        location.href = './loc_sft_img.html?rd=1'
+      }
+
       let finishRegistrationButton = document.createElement("button")
       finishRegistrationButton.type = "submit"
       finishRegistrationButton.classList.add("registerbtn")
       finishRegistrationButton.textContent = "Finish Registration"
-      finishRegistrationButton.onclick = function() {
-        location.href = './completion.html'
+
+      let postBodyLoc = document.getElementById("post-body-loc")
+      postBodyLoc.appendChild(finishRegistrationButton)
+
+      finishRegistrationButton.onclick = function () {
+        completionDiv.textContent = "Your completion code is 97754. You may now return to the survey."
+        let postBody = document.getElementById("post-body-loc")
+        postBody.appendChild(completionDiv)
       }
-      let postBody = document.getElementById("post-body-ads")
-      postBody.appendChild(finishRegistrationButton)
       break;
     case 2:
-      //set location.href of registration page to completion.html
-      if (document.getElementById("registerbtn") != null){
+      if (document.getElementById("registerbtn") != null) {
         let registerButton = document.getElementById("registerbtn")
-      registerButton.onclick = function (){
-        location.href = './loc_sft_img.html'
+        registerButton.onclick = function () {
+          location.href = './ads_lft_video.html?rd=2'
+        }
       }
+
+      let continueInRegistrationButtonLft = document.createElement("button")
+      continueInRegistrationButtonLft.type = "submit"
+      continueInRegistrationButtonLft.classList.add("registerbtn")
+      continueInRegistrationButtonLft.textContent = "Continue"
+      continueInRegistrationButtonLft.id = "continueInRegistration1"
+      
+
+      if (document.getElementById("lft-vid-post-body-ads") != null){
+        let postBody = document.getElementById("lft-vid-post-body-ads")
+        postBody.appendChild(continueInRegistrationButtonLft)
       }
-      let finishRegistrationButtonLoc = document.createElement("button")
-      finishRegistrationButtonLoc.type = "submit"
-      finishRegistrationButtonLoc.classList.add("registerbtn")
-      finishRegistrationButtonLoc.textContent = "Finish Registration"
-      finishRegistrationButtonLoc.onclick = function() {
-        location.href = './completion.html'
+  
+      continueInRegistrationButtonLft.onclick = function () {
+        location.href = './loc_lft_video.html?rd=2'
       }
-      let postBodyLoc = document.getElementById("post-body-loc")
-      postBodyLoc.appendChild(finishRegistrationButtonLoc)
+
+      let finishRegistrationButtonLft = document.createElement("button")
+      finishRegistrationButtonLft.type = "submit"
+      finishRegistrationButtonLft.classList.add("registerbtn")
+      finishRegistrationButtonLft.textContent = "Finish Registration"
+      
+
+      let postBodyLocLft = document.getElementById("lft-vid-post-body-loc")
+      postBodyLocLft.appendChild(finishRegistrationButtonLft)
+      
+      finishRegistrationButtonLft.onclick = function () {
+        completionDiv.textContent = "Your completion code is 28314. You may now return to the survey."
+        let postBody = document.getElementById("lft-vid-post-body-loc")
+        postBody.appendChild(completionDiv)
+      }
       break;
     case 3:
       //set location.href of "open up" on homepage to completion.html
       let openUpButton = document.getElementById("openUp");
       openUpButton.onclick = function () {
-        location.href = './completion.html'
+        completionDiv.textContent = "Your completion code is 78782. You may now return to the survey."
+        let doorblePost = document.getElementById("doorble-post")
+        doorblePost.appendChild(completionDiv)
       }
+      //TODO: add functionality to handle the second task where a participant watches the first ad they see.
       break;
     case 4:
       //help center
-      let hcAdvertisements = document.getElementById("hcAdvertisements")
-      hcAdvertisements.onclick = function () {
-        location.href = './ads_sft_img.html'
+      if (document.getElementById("hcAdvertisements") != null) {
+        let hcAdvertisements = document.getElementById("hcAdvertisements")
+        hcAdvertisements.onclick = function () {
+          location.href = './ads_sft_img.html'
+        }
+      }
+      let finishTaskButton = document.createElement("button")
+      finishTaskButton.type = "submit"
+      finishTaskButton.classList.add("registerbtn")
+      finishTaskButton.textContent = "Finish review of this page"
+      finishTaskButton.onclick = function () {
+        location.href = './completion.html'
+      }
+      if (document.getElementById("post-body-ads") != null) {
+        let postBodyAds = document.getElementById("post-body-ads")
+        postBodyAds.appendChild(finishTaskButton)
       }
 
-      let hcLocation = document.getElementById("hcLocation")
-      hcLocation.onclick = function () {
-        location.href = './loc_sft_img.html'
+      if (document.getElementById("hcLocation") != null) {
+        let hcLocation = document.getElementById("hcLocation")
+        hcLocation.onclick = function () {
+          location.href = './loc_sft_img.html'
+        }
       }
+
+      if (document.getElementById("post-body-loc") != null) {
+        let postBodyLoc = document.getElementById("post-body-loc")
+        postBodyLoc.appendChild(finishTaskButton)
+      }
+
       break;
     case 5:
       //help center
-      let hcAdvertisements5 = document.getElementById("hcAdvertisements")
-
-      hcAdvertisements5.onclick = function () {
-        location.href = './ads_lft_video.html'
+      if (document.getElementById("hcAdvertisements") != null) {
+        let hcAdvertisements = document.getElementById("hcAdvertisements")
+        hcAdvertisements.onclick = function () {
+          location.href = './ads_lft_video.html'
+        }
+      }
+      let finishTaskButton5 = document.createElement("button")
+      finishTaskButton5.type = "submit"
+      finishTaskButton5.classList.add("registerbtn")
+      finishTaskButton5.textContent = "Finish review of this page"
+      finishTaskButton5.onclick = function () {
+        location.href = './completion.html'
+      }
+      if (document.getElementById("post-body-ads") != null) {
+        let postBodyAds = document.getElementById("post-body-ads")
+        postBodyAds.appendChild(finishTaskButton5)
       }
 
-      let hcLocation5 = document.getElementById("hcLocation")
-      hcLocation5.onclick = function () {
-        location.href = './loc_lft_video.html'
+      if (document.getElementById("hcLocation") != null) {
+        let hcLocation = document.getElementById("hcLocation")
+        hcLocation.onclick = function () {
+          location.href = './loc_lft_video.html'
+        }
+      }
+
+      if (document.getElementById("post-body-loc") != null) {
+        let postBodyLoc = document.getElementById("post-body-loc")
+        postBodyLoc.appendChild(finishTaskButton5)
       }
       break;
     case 6:
@@ -181,7 +270,7 @@ function randomization(condition) {
       settingsAds.onclick = function () {
         let div = document.createElement("div")
         let button = document.createElement("button")
-        button.textContent = "Complete Task"
+        button.textContent = "Finish review of this setting"
         button.onclick = function () {
           location.href = './completion.html'
         }
@@ -192,7 +281,7 @@ function randomization(condition) {
       settingsLoc.onclick = function () {
         let div = document.createElement("div")
         let button = document.createElement("button")
-        button.textContent = "Complete Task"
+        button.textContent = "Finish review of this setting"
         button.onclick = function () {
           location.href = './completion.html'
         }
@@ -202,6 +291,8 @@ function randomization(condition) {
       break;
     case 7:
       //in feed
+      // TODO (similar code will apply for 8 & 9): similar to above, use query string to show location education 
+      //when visting website for second time.
       break;
     case 8:
       //in feed
@@ -218,6 +309,6 @@ window.onload = function () {
   });
   // Get the value of "some_key" in eg "https://example.com/?some_key=some_value"
   let value = params.rd; // "some_value"
-
-  randomization(2)
+  value = Number(value)
+  randomization(value)
 }
