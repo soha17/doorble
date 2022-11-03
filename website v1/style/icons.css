@@ -171,6 +171,16 @@
   width: 100px;
 }
 
+.loc-dropdown-content {
+  display: none;
+  position: relative;
+}
+
+.location-icon:hover + .loc-dropdown-content {
+  display: block;
+  margin-top: 20px;
+}
+
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content-loc {
   display: none;

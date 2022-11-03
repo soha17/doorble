@@ -18,7 +18,7 @@
 
   <nav>
     <div class="column-left">
-      <a href="./homepage.html" style="text-decoration:none;" class="doorble-logo">
+      <a href="./homepage.html" style="text-decoration:none;" class="doorble-logo" id="doorble-logo">
         <p class="doorble-logo">doorble</p>
         <img class="doorble-icon" src="images/doorble_icon.jpg" />
       </a>
@@ -48,10 +48,10 @@
       <div class="dropdown">
         <button class="dropbtn">Profile</button>
         <div class="dropdown-content">
-          <a href="#">Account</a>
+          <a href="">Account</a>
           <a id="settings" href="./settings.html">Settings</a>
           <a id="helpCenter" href="./helpcenter.html">Help Center</a>
-          <a href="#">Log Out</a>
+          <a href="">Log Out</a>
         </div>
       </div>
 
@@ -70,7 +70,7 @@
             <img src="images/location-icon.png" class="location-icon" height="25px" width="25px"
               onclick="changeColor_loc(this)" />
             <div class="loc-dropdown-content">
-              <a href="loc_lft.html" style="font-size: 12px;">
+              <a id="post" href="loc_lft.html" style="font-size: 12px;">
                 We use location-related information only if you turn on the Location setting. <br>
                 This includes things like your GPS location and, depending on the operating system <br>
                 you're using, other device signals. You can manage your Location settings here <br>
@@ -116,9 +116,10 @@
               <div class="dropdown">
                 <button class="post-menu-icon"></button>
                 <div class="dropdown-content">
-                  <p>Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on,
+                  <a>Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on,
                     places you’ve told us you visited) on Doorble may help us show you ads that we think you might be
-                    interested in. <a href=ads_lft.html> Learn more about how ads are personalized to you.</a></p>
+                    interested in.</a>
+                  <a id="adsDropdown" href=ads_lft.html> Learn more about how ads are personalized to you.</a>
                   <a id="hide_ad" onclick="hideAd()">Hide advertisement</a>
                 </div>
               </div>
@@ -199,14 +200,14 @@
             <br>
             Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on, places
             you’ve told us you visited) on Doorble may help us show you ads that we think you might be interested in.
-            Learn more about how <a href=ads_lft.html> ads are personalized to you</a>. Control personalized ad
-            preferences via <a href=settings.html> Settings</a>.
+            Learn more about how <a id="inPostAdsLft" href=ads_lft.html> ads are personalized to you</a>. Control personalized ad
+            preferences via <a id="inPostSettings" href=settings.html> Settings</a>.
           </p>
           <a class="post-image">
             <!-- <img src="images/ads_pic.jpg" /> -->
             <div class="excerpt">
 
-              <label onclick="location.href='./ads_lft.html'"> doorble.com</label>
+              <label id="inPostLabelAdsLft" > doorble.com</label>
               <h3>Learn How We Personalize Ads</h3>
               <span>Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on,
                 places you’ve told us you visited) on Doorble may help us show you ads that we think you might be
@@ -274,7 +275,7 @@
             <img src="images/ads_pic.jpg" />
             <div class="excerpt">
 
-              <label onclick="location.href='./ads_lft.html'"> doorble.com</label>
+              <label id="inPostLabelAdsImage"> doorble.com</label>
               <h3>Learn How We Personalize Ads</h3>
               <span>Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on,
                 places you’ve told us you visited) on Doorble may help us show you ads that we think you might be
@@ -316,127 +317,166 @@
           </div>
         </div>
 
-           <!-- in feed ads - video  -->
-           <div id="in-feed-ads-video" class="card post" style="display: none">
-            <div class="post-header">
-              <div class="post-author-info">
-                <img src="images/doorble_icon.jpg" />
+        <!-- in feed ads - video  -->
+        <div id="in-feed-ads-video" class="card post" style="display: none">
+          <div class="post-header">
+            <div class="post-author-info">
+              <img src="images/doorble_icon.jpg" />
+              <div>
                 <div>
-                  <div>
-                    <span class="author-name">Doorble</span>
-                  </div>
-                  <div class="details">
-                    <span>4h</span>
-                    <span> · </span>
-                    <i class="post-settings-icon"></i>
-                  </div>
+                  <span class="author-name">Doorble</span>
                 </div>
-              </div>
-              <!-- <i class="post-menu-icon"></i> -->
-              <div class="dropdown">
-                <button class="post-menu-icon"></button>
-              </div>
-            </div>
-            <p class="post-body">How We Personalize Ads</p>
-            
-            
-              <video height="350" controls>
-                <source src="images/ads_vid.mp4" type="video/mp4">
-              Your browser does not support the video tag.
-              </video>
-              <h2>Your activity on Doorble:</h2>
-              Some of your activity on Doorble may help us show you ads that we think you might be interested in. A few ways we may show you ads using this information include:
-              
-            
-              <h3>Interests and categories.</h3> Some information you give us may help us think you’re interested in something, like cooking or fitness, or that you might be part of a larger group (called a category), like a mobile user. We can use your interests and categories to connect you with businesses who we think you might be interested in.
-              A few things we could use that help us add you to an interest or category:
-              
-              <ol >
-              <li>Pages on Doorble you've liked.</li>
-              <li>Information from your Doorble profile.</li>
-              <li>Ads you’ve clicked on.</li>
-              <li>The content of posts you've made or interacted with across Doorble.</li>
-              <li> Places you’ve checked in using Doorble.</li>
-
-              </ol>
-              
-              <h3>Similar Audiences.</h3> A Similar Audience is a way for advertisers to use Doorble to reach people that may be similar to people that have already shown an interest in their business. We use some of the things you do or information you give us to help create Similar Audiences.
-              For example, an advertiser might tell us they’d like to show ads to people who may be similar to people who are already interested in their business (such as people who’ve liked their Page or visited their website). We match things like the interests or demographics (example: your city) of the people who are already interested in the business to help show ads to other people that we think might be interested in the advertiser’s business or products.
-              
-              <h2>Your activity with other businesses:</h2>
-              <h3>DIY Audiences.</h3> DIY Audiences are a way for advertisers to show their ads to a group of people who may have already interacted with their business. A few ways we help advertisers make DIY Audiences:
-              <br>
-              <h3>Your activity on a business’s website or app.</h3> Advertisers can choose to add our Business Tools, to their website or app. These tools allow the advertiser to send information about people's interactions on their website or app to Doorble, such as when someone makes a purchase or opens their app. This helps us show you ads that we think may be interesting to you.
-              <ol>
-              <li><h3>Lists from a business.</h3> Advertisers may get information from you (like your email address) when you interact with them outside of Doorble, like if you make a purchase in their store or create an account for a rewards program. They can create a list with that information and upload it to Doorble. We can match users using the list to help the advertiser reach people who may be interested in their business and without Doorble learning any new identifying information about you. If you see another company using a list for an advertiser, it's likely because the advertiser is working with an advertising agency. For example, if Company X hires Agency Y to run its ads, Agency Y would upload its own list to Doorble and Company X would use that list to show you ads. 
-              </li>
-                <li><h3>Offline activity.</h3> Offline activity is activity you may do in a store, like make a purchase. If a business gives us this information, we can use it to help show their ads to people who may be interested in their business. We can also help businesses reach the right people by letting them know if their customers have engaged with their ads on Doorble.
-                </li></ol>
-              <h2>Location information:</h2>
-              We may use your location information to show you ads from advertisers trying to reach people in or near a specific place. We get this information from things such as:
-              <ol><li>Where you connect to the internet.
-              </li><li>Where you use your phone.
-              </li><li>Your location from your Doorble profile.
-              </li></ol>
-              <h2>Ways to review and manage your information:</h2>
-              <ol>
-              </li><li>Hide an ad that isn't interesting or useful to you or review why you're seeing a particular ad.
-              </li><li>Update your profile settings by navigating to <b>Setting > Privacy</b> to make sure you're sharing your information with who you want. 
-              </li>
-              </ol>
-
-              <h2>How to review and manage your personized ads:
-              </h2><ol class="num"><li>Navigate to <a href = settings.html> Settings > Privacy</a>. Expand “Advertising" to review and change your customization settings.
-                <li id="lft-vid-post-body-ads">Hide an ad that isn't interesting.</li></ol>
-               <br>
-              </p>
-              <br>
-              </p>
- 
-              <a class="post-image">  
-              <div class="excerpt">
-  
-                <label onclick="location.href='./ads_lft.html'"> doorble.com</label>
-                <h3>Learn How We Personalize Ads</h3>
-                <span>Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on,
-                  places you’ve told us you visited) on Doorble may help us show you ads that we think you might be
-                  interested in. Learn more about how ads are targeted to you. Control personalized ad preference</span>
-              </div>
-            </a>
-            <div class="post-reactions">
-              <div class="comment-share">
-                <div>
-                  <span>121</span>
-                  <span>Comments</span>
-                </div>
-                <div class="shares">
-                  <span>48</span>
-                  <span>Shares</span>
+                <div class="details">
+                  <span>4h</span>
+                  <span> · </span>
+                  <i class="post-settings-icon"></i>
                 </div>
               </div>
             </div>
-            <div class="post-actions">
-              <div class="actions">
-                <div class="action">
-                  <img class="like-icon" src="images/like_icon.png" onclick="changeColor(this)" />
-                  <span>Like</span>
-                </div>
-                <div class="action">
-                  <img class="like-icon" src="images/dislike_icon.png" onclick="changeColor_dislike(this)" />
-                  <span>Dislike</span>
-                </div>
-  
-                <div class="action">
-                  <i class="comment-icon"></i>
-                  <span>Comment</span>
-                </div>
-                <div class="action">
-                  <i class="share-icon"></i>
-                  <span>Share</span>
-                </div>
+            <!-- <i class="post-menu-icon"></i> -->
+            <div class="dropdown">
+              <button class="post-menu-icon"></button>
+            </div>
+          </div>
+          <p class="post-body">How We Personalize Ads</p>
+
+
+          <video height="350" controls>
+            <source src="images/ads_vid.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <h2>Your activity on Doorble:</h2>
+          Some of your activity on Doorble may help us show you ads that we think you might be interested in. A few ways
+          we may show you ads using this information include:
+
+
+          <h3>Interests and categories.</h3> Some information you give us may help us think you’re interested in
+          something, like cooking or fitness, or that you might be part of a larger group (called a category), like a
+          mobile user. We can use your interests and categories to connect you with businesses who we think you might be
+          interested in.
+          A few things we could use that help us add you to an interest or category:
+
+          <ol>
+            <li>Pages on Doorble you've liked.</li>
+            <li>Information from your Doorble profile.</li>
+            <li>Ads you’ve clicked on.</li>
+            <li>The content of posts you've made or interacted with across Doorble.</li>
+            <li> Places you’ve checked in using Doorble.</li>
+
+          </ol>
+
+          <h3>Similar Audiences.</h3> A Similar Audience is a way for advertisers to use Doorble to reach people that
+          may be similar to people that have already shown an interest in their business. We use some of the things you
+          do or information you give us to help create Similar Audiences.
+          For example, an advertiser might tell us they’d like to show ads to people who may be similar to people who
+          are already interested in their business (such as people who’ve liked their Page or visited their website). We
+          match things like the interests or demographics (example: your city) of the people who are already interested
+          in the business to help show ads to other people that we think might be interested in the advertiser’s
+          business or products.
+
+          <h2>Your activity with other businesses:</h2>
+          <h3>DIY Audiences.</h3> DIY Audiences are a way for advertisers to show their ads to a group of people who may
+          have already interacted with their business. A few ways we help advertisers make DIY Audiences:
+          <br>
+          <h3>Your activity on a business’s website or app.</h3> Advertisers can choose to add our Business Tools, to
+          their website or app. These tools allow the advertiser to send information about people's interactions on
+          their website or app to Doorble, such as when someone makes a purchase or opens their app. This helps us show
+          you ads that we think may be interesting to you.
+          <ol>
+            <li>
+              <h3>Lists from a business.</h3> Advertisers may get information from you (like your email address) when
+              you interact with them outside of Doorble, like if you make a purchase in their store or create an account
+              for a rewards program. They can create a list with that information and upload it to Doorble. We can match
+              users using the list to help the advertiser reach people who may be interested in their business and
+              without Doorble learning any new identifying information about you. If you see another company using a
+              list for an advertiser, it's likely because the advertiser is working with an advertising agency. For
+              example, if Company X hires Agency Y to run its ads, Agency Y would upload its own list to Doorble and
+              Company X would use that list to show you ads.
+            </li>
+            <li>
+              <h3>Offline activity.</h3> Offline activity is activity you may do in a store, like make a purchase. If a
+              business gives us this information, we can use it to help show their ads to people who may be interested
+              in their business. We can also help businesses reach the right people by letting them know if their
+              customers have engaged with their ads on Doorble.
+            </li>
+          </ol>
+          <h2>Location information:</h2>
+          We may use your location information to show you ads from advertisers trying to reach people in or near a
+          specific place. We get this information from things such as:
+          <ol>
+            <li>Where you connect to the internet.
+            </li>
+            <li>Where you use your phone.
+            </li>
+            <li>Your location from your Doorble profile.
+            </li>
+          </ol>
+          <h2>Ways to review and manage your information:</h2>
+          <ol>
+            </li>
+            <li>Hide an ad that isn't interesting or useful to you or review why you're seeing a particular ad.
+            </li>
+            <li>Update your profile settings by navigating to <b>Setting > Privacy</b> to make sure you're sharing your
+              information with who you want.
+            </li>
+          </ol>
+
+          <h2>How to review and manage your personized ads:
+          </h2>
+          <ol class="num">
+            <li>Navigate to <a id="inPostSettingsVid" href=settings.html> Settings > Privacy</a>. Expand “Advertising" to review and change
+              your customization settings.
+            <li id="lft-vid-post-body-ads">Hide an ad that isn't interesting.</li>
+          </ol>
+          <br>
+          </p>
+          <br>
+          </p>
+
+          <a class="post-image">
+            <div class="excerpt">
+
+              <label id ="inPostAdsVid"> doorble.com</label>
+              <h3>Learn How We Personalize Ads</h3>
+              <span>Some of your activity (e.g. pages you’ve liked, information on your Profile, ads you’ve clicked on,
+                places you’ve told us you visited) on Doorble may help us show you ads that we think you might be
+                interested in. Learn more about how ads are targeted to you. Control personalized ad preference</span>
+            </div>
+          </a>
+          <div class="post-reactions">
+            <div class="comment-share">
+              <div>
+                <span>121</span>
+                <span>Comments</span>
+              </div>
+              <div class="shares">
+                <span>48</span>
+                <span>Shares</span>
               </div>
             </div>
           </div>
+          <div class="post-actions">
+            <div class="actions">
+              <div class="action">
+                <img class="like-icon" src="images/like_icon.png" onclick="changeColor(this)" />
+                <span>Like</span>
+              </div>
+              <div class="action">
+                <img class="like-icon" src="images/dislike_icon.png" onclick="changeColor_dislike(this)" />
+                <span>Dislike</span>
+              </div>
+
+              <div class="action">
+                <i class="comment-icon"></i>
+                <span>Comment</span>
+              </div>
+              <div class="action">
+                <i class="share-icon"></i>
+                <span>Share</span>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <!-- in feed location - sft -->
         <div id="in-feed-location-sft" class="card post">
@@ -464,14 +504,14 @@
             <br>
             We use location-related information only if you turn on the Location device setting. This includes things
             like your GPS location and, depending on the operating system you're using, other device signals. You can
-            manage your Location settings under <a href=settings.html> Settings</a>.
-            Learn more about our <a href="loc_lft.html">location data practices</a>.
+            manage your Location settings under <a id="inPostLocSettings" href=settings.html> Settings</a>.
+            Learn more about our <a id="inPostLocLft" href="loc_lft.html">location data practices</a>.
           </p>
           <a class="post-image">
 
             <div class="excerpt">
 
-              <label onclick="location.href='./ads_lft.html'"> doorble.com</label>
+              <label id="inPostLabelSftLoc"> doorble.com</label>
               <h3>How we use location-related information</h3>
               <span>We use location-related information only if you turn on the Location device setting. This includes
                 things like your GPS location and, depending on the operating system you're using, other device signals.
@@ -540,7 +580,7 @@
             <img src="images/loc_pic.png" />
             <div class="excerpt">
 
-              <label onclick="location.href='./ads_lft.html'"> doorble.com</label>
+              <label id="inPostLabelLocImage"> doorble.com</label>
               <h3>How we use location-related information</h3>
               <span>We use location-related information only if you turn on the Location device setting. This includes
                 things like your GPS location and, depending on the operating system you're using, other device signals.
@@ -583,8 +623,8 @@
           </div>
         </div>
 
-         <!-- in feed location - video -->
-         <div id="in-feed-location-video" class="card post" style="display: none">
+        <!-- in feed location - video -->
+        <div id="in-feed-location-video" class="card post" style="display: none">
           <div class="post-header">
             <div class="post-author-info">
               <img src="images/doorble_icon.jpg" />
@@ -610,47 +650,47 @@
             Your browser does not support the video tag.
           </video>
           <br>
-                  We use location-related information that you allow us to receive if you turn on the Location device
-                  setting. This includes things like your GPS location and, depending on the operating system you're
-                  using, other device signals.
+          We use location-related information that you allow us to receive if you turn on the Location device
+          setting. This includes things like your GPS location and, depending on the operating system you're
+          using, other device signals.
 
-                  <br><br>We also receive and use some location-related information even if Location is turned off.
-                  This includes:
-                  <ol>
-                    <li>IP addresses, which we use to estimate your general location. We can use IP addresses to
-                      estimate your specific location if it’s necessary to protect the safety and security of you or
-                      others.
-                    </li>
-                    <li>Your and others' activity on our platform, like check-ins and events
-                    </li>
-                    <li>Information you give us directly, like if you enter your current city on your profile, or
-                      provide your address
-                    </li>
-                  </ol>
-                  <br>We use location-related information, such as your current location, where you live, the places you
-                  like to go and the businesses and people you're near, to do the things like:
-                  <ol>
-                    <li>Provide, personalize and improve our platform, including ads, for you and others. See an
-                      example.
-                    </li>
-                    <li> suspicious activity and help keep your account secure.
-                    </li>
-                  </ol>
-                  <h2>How to review and manage your location information:
-                  </h2>
-                  <ol class="num">
-                    <li>Navigate to <a href=settings.html> Settings</a>.
-                    </li>
-                    <li id = "lft-vid-post-body-loc">Expand “Location data” to review and change your location settings.
-                    </li>
-                  </ol>
-                  <br>
-                  </p>
+          <br><br>We also receive and use some location-related information even if Location is turned off.
+          This includes:
+          <ol>
+            <li>IP addresses, which we use to estimate your general location. We can use IP addresses to
+              estimate your specific location if it’s necessary to protect the safety and security of you or
+              others.
+            </li>
+            <li>Your and others' activity on our platform, like check-ins and events
+            </li>
+            <li>Information you give us directly, like if you enter your current city on your profile, or
+              provide your address
+            </li>
+          </ol>
+          <br>We use location-related information, such as your current location, where you live, the places you
+          like to go and the businesses and people you're near, to do the things like:
+          <ol>
+            <li>Provide, personalize and improve our platform, including ads, for you and others. See an
+              example.
+            </li>
+            <li> suspicious activity and help keep your account secure.
+            </li>
+          </ol>
+          <h2>How to review and manage your location information:
+          </h2>
+          <ol class="num">
+            <li>Navigate to <a id="inPostLocSettingsVid" href=settings.html> Settings</a>.
+            </li>
+            <li id="lft-vid-post-body-loc">Expand “Location data” to review and change your location settings.
+            </li>
+          </ol>
+          <br>
+          </p>
           <a class="post-image">
             <!-- <img src="images/loc_pic.png" /> -->
             <div class="excerpt">
 
-              <label onclick="location.href='./ads_lft.html'"> doorble.com</label>
+              <label id="inPostLocVidLabel"> doorble.com</label>
               <h3>How we use location-related information</h3>
               <span>We use location-related information only if you turn on the Location device setting. This includes
                 things like your GPS location and, depending on the operating system you're using, other device signals.
@@ -716,7 +756,7 @@
             </div>
           </div>
 
-          
+
 
 
           <p class="post-body"> Breckenridge was a blast!</p>
