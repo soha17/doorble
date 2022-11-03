@@ -200,7 +200,7 @@ function randomization(condition) {
 
 
       finishRegistrationButton.onclick = function () {
-        completionDiv.textContent = "Your completion code is 97754. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52531. You may now return to the survey."
         let postBody = document.getElementById("post-body-loc")
         postBody.appendChild(completionDiv)
       }
@@ -289,7 +289,7 @@ function randomization(condition) {
       postBodyLocLft.appendChild(finishRegistrationButtonLft)
 
       finishRegistrationButtonLft.onclick = function () {
-        completionDiv.textContent = "Your completion code is 28314. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52537. You may now return to the survey."
         let postBody = document.getElementById("lft-vid-post-body-loc")
         postBody.appendChild(completionDiv)
       }
@@ -350,7 +350,7 @@ function randomization(condition) {
 
       let openUpButton = document.getElementById("openUp");
       openUpButton.onclick = function () {
-        completionDiv.textContent = "Your completion code is 78782. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52532. You may now return to the survey."
         let doorblePost = document.getElementById("doorble-post")
         doorblePost.appendChild(completionDiv)
       }
@@ -359,7 +359,7 @@ function randomization(condition) {
       hideAdElement.onclick = function () {
         hideAd()
         let abovePost = document.getElementById("doorble-post")
-        completionDiv.textContent = "Your completion code is 78782. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52539. You may now return to the survey."
         abovePost.appendChild(completionDiv)
       }
       break;
@@ -434,12 +434,12 @@ function randomization(condition) {
       finishTaskButton.onclick = function () {
         if (document.getElementById("post-body-ads") != null) {
           let postBodyAdsFinish = document.getElementById("post-body-ads")
-          completionDiv.textContent = "Your completion code is 13408. You may now return to the survey."
+          completionDiv.textContent = "Your completion code is 52538. You may now return to the survey."
           postBodyAdsFinish.appendChild(completionDiv)
         }
         else {
           let postBodyLocFinish = document.getElementById("post-body-loc")
-          completionDiv.textContent = "Your completion code is 13408. You may now return to the survey."
+          completionDiv.textContent = "Your completion code is 52531. You may now return to the survey."
           postBodyLocFinish.appendChild(completionDiv)
         }
       }
@@ -533,12 +533,12 @@ function randomization(condition) {
       finishTaskButton5.onclick = function () {
         if (document.getElementById("lft-vid-post-body-ads") != null) {
           let postBodyAds = document.getElementById("lft-vid-post-body-ads")
-          completionDiv.textContent = "Your completion code is 37007. You may now return to the survey."
+          completionDiv.textContent = "Your completion code is 52537. You may now return to the survey."
           postBodyAds.appendChild(completionDiv)
         }
         if (document.getElementById("lft-vid-post-body-loc") != null) {
           let postBodyLoc = document.getElementById("lft-vid-post-body-loc")
-          completionDiv.textContent = "Your completion code is 37007. You may now return to the survey."
+          completionDiv.textContent = "Your completion code is 52530. You may now return to the survey."
           postBodyLoc.appendChild(completionDiv)
         }
 
@@ -625,7 +625,7 @@ function randomization(condition) {
         let button = document.createElement("button")
         button.textContent = "Finish review of this setting"
         button.onclick = function () {
-          completionDiv.textContent = "Your completion code is 16717. You may now return to the survey."
+          completionDiv.textContent = "Your completion code is 52537. You may now return to the survey."
           document.getElementById("ads_education").appendChild(completionDiv)
         }
         div.appendChild(button)
@@ -637,7 +637,7 @@ function randomization(condition) {
         let button = document.createElement("button")
         button.textContent = "Finish review of this setting"
         button.onclick = function () {
-          completionDiv.textContent = "Your completion code is 16717. You may now return to the survey."
+          completionDiv.textContent = "Your completion code is 52532. You may now return to the survey."
           document.getElementById("location_education").appendChild(completionDiv)
         }
         div.appendChild(button)
@@ -707,7 +707,7 @@ function randomization(condition) {
       //in feed -sft
       let natureDislike = document.getElementById("natureDislike")
       natureDislike.onclick = function () {
-        completionDiv.textContent = "Your completion code is 91643. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52533. You may now return to the survey."
         document.getElementById("naturePostActions").appendChild(completionDiv)
       }
       break;
@@ -775,7 +775,7 @@ function randomization(condition) {
 
       let natureDislike2 = document.getElementById("natureDislike")
       natureDislike2.onclick = function () {
-        completionDiv.textContent = "Your completion code is 69927. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52537. You may now return to the survey."
         document.getElementById("naturePostActions").appendChild(completionDiv)
       }
       break;
@@ -840,7 +840,7 @@ function randomization(condition) {
 
       let natureDislike3 = document.getElementById("natureDislike")
       natureDislike3.onclick = function () {
-        completionDiv.textContent = "Your completion code is 68587. You may now return to the survey."
+        completionDiv.textContent = "Your completion code is 52539. You may now return to the survey."
         document.getElementById("naturePostActions").appendChild(completionDiv)
       }
 
