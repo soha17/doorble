@@ -175,6 +175,39 @@ function randomization(condition) {
         settingsLocLft.href = './loc_lft.html?rd=1&pid=' + value
       }
 
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=1&pid=' + value
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=1&pid=' + value
+      }
+
       if (document.getElementById("registerbtn") != null) {
         let continueInRegistrationButton = document.getElementById("registerbtn")
         continueInRegistrationButton.onclick = function () {
@@ -274,6 +307,38 @@ function randomization(condition) {
       if (document.getElementById("settingsLocLft")!= null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=2&pid=' + value2
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=2&pid=' + value2
       }
 
       if (document.getElementById("registerbtn") != null) {
@@ -375,6 +440,38 @@ function randomization(condition) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=3&pid=' + value3
       }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=3&pid=' + value3
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=3&pid=' + value3
+      }
 
       let openUpButton = document.getElementById("openUp");
       openUpButton.onclick = function () {
@@ -451,6 +548,38 @@ function randomization(condition) {
       if (document.getElementById("settingsLocLft")!= null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=4&pid=' + value4
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=4&pid=' + value4
       }
 
       //help center
@@ -561,6 +690,38 @@ function randomization(condition) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=5&pid=' + value5
       }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=5&pid=' + value5
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=5&pid=' + value5
+      }
 
       //help center
       if (document.getElementById("helpCenter") != null) {
@@ -667,6 +828,38 @@ function randomization(condition) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=6&pid=' + value6
       }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=6&pid=' + value6
+      }
 
 
       //settings
@@ -769,6 +962,38 @@ function randomization(condition) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=7&pid=' + value7
       }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=7&pid=' + value7
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=7&pid=' + value7
+      }
 
       //in feed -sft
       let natureDislike = document.getElementById("natureDislike")
@@ -825,6 +1050,38 @@ function randomization(condition) {
       if (document.getElementById("settingsLocLft")!= null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=8&pid=' + value8
       }
 
 
@@ -901,6 +1158,38 @@ function randomization(condition) {
       if (document.getElementById("settingsLocLft")!= null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("adsLftSettings")!= null) {
+        let adsLftSettings = document.getElementById("adsLftSettings")
+        adsLftSettings.href = './settings.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("locLftSettings")!= null) {
+        let locLftSettings = document.getElementById("locLftSettings")
+        locLftSettings.href = './settings.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("adsSftImgAdsLft")!= null) {
+        let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
+        adsSftImgAdsLft.href = './ads_lft.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("adsSftImgSettings")!= null) {
+        let adsSftImgSettings = document.getElementById("adsSftImgSettings")
+        adsSftImgSettings.href = './settings.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("locSftImgLocLft")!= null) {
+        let locSftImgLocLft = document.getElementById("locSftImgLocLft")
+        locSftImgLocLft.href = './loc_lft.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("locSftImgSettings")!= null) {
+        let locSftImgSettings = document.getElementById("locSftImgSettings")
+        locSftImgSettings.href = './settings.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("adsLftVideoSettings")!= null) {
+        let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
+        adsLftVideoSettings.href = './settings.html?rd=9&pid=' + value9
+      }
+      if (document.getElementById("locLftVideoSettings")!= null) {
+        let locLftVideoSettings = document.getElementById("locLftVideoSettings")
+        locLftVideoSettings.href = './settings.html?rd=9&pid=' + value9
       }
 
       //in feed -video
