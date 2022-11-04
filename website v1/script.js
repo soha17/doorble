@@ -121,7 +121,7 @@ function randomization(condition) {
       });
 
       let value = params.pid;
-      value = Number(value)
+      value = String(value)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo = document.getElementById("doorble-logo")
@@ -212,7 +212,7 @@ function randomization(condition) {
       });
 
       let value2 = params2.pid;
-      value2 = Number(value2)
+      value2 = String(value2)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo2 = document.getElementById("doorble-logo")
@@ -302,7 +302,7 @@ function randomization(condition) {
       });
 
       let value3 = params3.pid;
-      value3 = Number(value3)
+      value3 = String(value3)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo3 = document.getElementById("doorble-logo")
@@ -370,7 +370,7 @@ function randomization(condition) {
       });
 
       let value4 = params4.pid;
-      value4 = Number(value4)
+      value4 = String(value4)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo4 = document.getElementById("doorble-logo")
@@ -469,7 +469,7 @@ function randomization(condition) {
       });
 
       let value5 = params5.pid;
-      value5 = Number(value5)
+      value5 = String(value5)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo5 = document.getElementById("doorble-logo")
@@ -567,7 +567,7 @@ function randomization(condition) {
       });
 
       let value6 = params6.pid;
-      value6 = Number(value6)
+      value6 = String(value6)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo6 = document.getElementById("doorble-logo")
@@ -652,7 +652,7 @@ function randomization(condition) {
       });
 
       let value7 = params7.pid;
-      value7 = Number(value7)
+      value7 = String(value7)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo7 = document.getElementById("doorble-logo")
@@ -719,7 +719,7 @@ function randomization(condition) {
       });
 
       let value8 = params8.pid;
-      value8 = Number(value8)
+      value8 = String(value8)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo8 = document.getElementById("doorble-logo")
@@ -786,7 +786,7 @@ function randomization(condition) {
       });
 
       let value9 = params9.pid;
-      value9 = Number(value9)
+      value9 = String(value9)
 
       //Ensure query parameters persist if participant clicks on other available links
       let doorbleLogo9 = document.getElementById("doorble-logo")
