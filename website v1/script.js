@@ -165,6 +165,15 @@ function randomization(condition) {
         let inPostLocLft = document.getElementById("inPostLocLft")
         inPostLocLft.href = './loc_lft.html?rd=1&pid=' + value
       }
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=1&pid=' + value
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=1&pid=' + value
+      }
 
       if (document.getElementById("registerbtn") != null) {
         let continueInRegistrationButton = document.getElementById("registerbtn")
@@ -257,6 +266,16 @@ function randomization(condition) {
         inPostLocLft2.href = './loc_lft.html?rd=2&pid=' + value2
       }
 
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=2&pid=' + value2
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=2&pid=' + value2
+      }
+
       if (document.getElementById("registerbtn") != null) {
         let registerButton = document.getElementById("registerbtn")
         registerButton.onclick = function () {
@@ -347,6 +366,15 @@ function randomization(condition) {
         inPostLocLft3.href = './loc_lft.html?rd=3&pid=' + value3
       }
 
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=3&pid=' + value3
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=3&pid=' + value3
+      }
 
       let openUpButton = document.getElementById("openUp");
       openUpButton.onclick = function () {
@@ -413,6 +441,16 @@ function randomization(condition) {
       if (document.getElementById("inPostLocLft") != null) {
         let inPostLocLft4 = document.getElementById("inPostLocLft")
         inPostLocLft4.href = './loc_lft.html?rd=4&pid=' + value4
+      }
+
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=4&pid=' + value4
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=4&pid=' + value4
       }
 
       //help center
@@ -514,6 +552,16 @@ function randomization(condition) {
         inPostLocLft5.href = './loc_lft.html?rd=5&pid=' + value5
       }
 
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=5&pid=' + value5
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=5&pid=' + value5
+      }
+
       //help center
       if (document.getElementById("helpCenter") != null) {
         let helpCenter = document.getElementById("helpCenter")
@@ -611,6 +659,14 @@ function randomization(condition) {
         let inPostLocLft6 = document.getElementById("inPostLocLft")
         inPostLocLft6.href = './loc_lft.html?rd=6&pid=' + value6
       }
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=6&pid=' + value6
+      }
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=6&pid=' + value6
+      }
 
 
       //settings
@@ -704,6 +760,16 @@ function randomization(condition) {
         let inPostLocLft7 = document.getElementById("inPostLocLft")
         inPostLocLft7.href = './loc_lft.html?rd=7&pid=' + value7
       }
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=7&pid=' + value7
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=7&pid=' + value7
+      }
+
       //in feed -sft
       let natureDislike = document.getElementById("natureDislike")
       natureDislike.onclick = function () {
@@ -752,14 +818,14 @@ function randomization(condition) {
           location.href = './loc_lft.html?rd=8&pid=' + value8
         }
       }
-      // if (document.getElementById("inPostLocSettings") != null) {
-      //   let inPostLocSettings8 = document.getElementById("inPostLocSettings")
-      //   inPostLocSettings8.href = './settings.html?rd=8&pid=' + value8
-      // }
-      // if (document.getElementById("inPostLocLft") != null) {
-      //   let inPostLocLft8 = document.getElementById("inPostLocLft")
-      //   inPostLocLft8.href = './loc_lft.html?rd=8&pid=' + value8
-      // }
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=8&pid=' + value8
+      }
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=8&pid=' + value8
+      }
 
 
       //in feed -sft-image
@@ -827,6 +893,16 @@ function randomization(condition) {
           location.href = './loc_lft.html?rd=9&pid=' + value9
         }
       }
+      if (document.getElementById("settingsAdsLft")!= null) {
+        let settingsAdsLft = document.getElementById("settingsAdsLft")
+        settingsAdsLft.href = './ads_lft.html?rd=9&pid=' + value9
+      }
+
+      if (document.getElementById("settingsLocLft")!= null) {
+        let settingsLocLft = document.getElementById("settingsLocLft")
+        settingsLocLft.href = './loc_lft.html?rd=9&pid=' + value9
+      }
+
       //in feed -video
       let inFeedAdsSft2 = document.getElementById("in-feed-ads-sft")
       inFeedAdsSft2.style.display = "none"
