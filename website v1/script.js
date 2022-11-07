@@ -113,6 +113,7 @@ function randomization(condition) {
   // condition 1-9 will dictate where completion code appears
   let completionDiv = document.createElement("div")
   completionDiv.classList.add("completion-message")
+  completionDiv.id = "completionDiv"
   switch (condition) {
     case 1:
       //Get pid parameter
@@ -165,45 +166,45 @@ function randomization(condition) {
         let inPostLocLft = document.getElementById("inPostLocLft")
         inPostLocLft.href = './loc_lft.html?rd=1&pid=' + value
       }
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=1&pid=' + value
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=1&pid=' + value
       }
 
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=1&pid=' + value
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=1&pid=' + value
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=1&pid=' + value
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=1&pid=' + value
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=1&pid=' + value
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=1&pid=' + value
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=1&pid=' + value
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=1&pid=' + value
       }
@@ -299,44 +300,44 @@ function randomization(condition) {
         inPostLocLft2.href = './loc_lft.html?rd=2&pid=' + value2
       }
 
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=2&pid=' + value2
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=2&pid=' + value2
       }
@@ -431,44 +432,44 @@ function randomization(condition) {
         inPostLocLft3.href = './loc_lft.html?rd=3&pid=' + value3
       }
 
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=3&pid=' + value3
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=3&pid=' + value3
       }
@@ -540,44 +541,44 @@ function randomization(condition) {
         inPostLocLft4.href = './loc_lft.html?rd=4&pid=' + value4
       }
 
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=4&pid=' + value4
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=4&pid=' + value4
       }
@@ -681,44 +682,44 @@ function randomization(condition) {
         inPostLocLft5.href = './loc_lft.html?rd=5&pid=' + value5
       }
 
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=5&pid=' + value5
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=5&pid=' + value5
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=5&pid=' + value5
       }
@@ -820,43 +821,43 @@ function randomization(condition) {
         let inPostLocLft6 = document.getElementById("inPostLocLft")
         inPostLocLft6.href = './loc_lft.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=6&pid=' + value6
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=6&pid=' + value6
       }
@@ -873,24 +874,32 @@ function randomization(condition) {
         let div = document.createElement("div")
         let button = document.createElement("button")
         button.textContent = "Finish review of this setting"
+        button.id = "finishReview"
         button.onclick = function () {
           completionDiv.textContent = "Your completion code is 52537. You may now return to the survey."
           document.getElementById("ads_education").appendChild(completionDiv)
         }
-        div.appendChild(button)
-        document.getElementById("ads_education").appendChild(div)
+        if (document.getElementById("finishReview") == null) {
+          div.appendChild(button)
+          document.getElementById("ads_education").appendChild(div)
+        }
+
       }
       let settingsLoc = document.getElementById("locSlider")
       settingsLoc.onclick = function () {
         let div = document.createElement("div")
         let button = document.createElement("button")
         button.textContent = "Finish review of this setting"
+        button.id = "finishReview"
         button.onclick = function () {
           completionDiv.textContent = "Your completion code is 52532. You may now return to the survey."
           document.getElementById("location_education").appendChild(completionDiv)
         }
-        div.appendChild(button)
-        document.getElementById("location_education").appendChild(div)
+        if (document.getElementById("finishReview") == null) {
+          div.appendChild(button)
+          document.getElementById("location_education").appendChild(div)
+        }
+
       }
       break;
     case 7:
@@ -953,44 +962,44 @@ function randomization(condition) {
         let inPostLocLft7 = document.getElementById("inPostLocLft")
         inPostLocLft7.href = './loc_lft.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=7&pid=' + value7
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=7&pid=' + value7
       }
@@ -1043,43 +1052,43 @@ function randomization(condition) {
           location.href = './loc_lft.html?rd=8&pid=' + value8
         }
       }
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=8&pid=' + value8
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=8&pid=' + value8
       }
@@ -1150,44 +1159,44 @@ function randomization(condition) {
           location.href = './loc_lft.html?rd=9&pid=' + value9
         }
       }
-      if (document.getElementById("settingsAdsLft")!= null) {
+      if (document.getElementById("settingsAdsLft") != null) {
         let settingsAdsLft = document.getElementById("settingsAdsLft")
         settingsAdsLft.href = './ads_lft.html?rd=9&pid=' + value9
       }
 
-      if (document.getElementById("settingsLocLft")!= null) {
+      if (document.getElementById("settingsLocLft") != null) {
         let settingsLocLft = document.getElementById("settingsLocLft")
         settingsLocLft.href = './loc_lft.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("adsLftSettings")!= null) {
+      if (document.getElementById("adsLftSettings") != null) {
         let adsLftSettings = document.getElementById("adsLftSettings")
         adsLftSettings.href = './settings.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("locLftSettings")!= null) {
+      if (document.getElementById("locLftSettings") != null) {
         let locLftSettings = document.getElementById("locLftSettings")
         locLftSettings.href = './settings.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("adsSftImgAdsLft")!= null) {
+      if (document.getElementById("adsSftImgAdsLft") != null) {
         let adsSftImgAdsLft = document.getElementById("adsSftImgAdsLft")
         adsSftImgAdsLft.href = './ads_lft.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("adsSftImgSettings")!= null) {
+      if (document.getElementById("adsSftImgSettings") != null) {
         let adsSftImgSettings = document.getElementById("adsSftImgSettings")
         adsSftImgSettings.href = './settings.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("locSftImgLocLft")!= null) {
+      if (document.getElementById("locSftImgLocLft") != null) {
         let locSftImgLocLft = document.getElementById("locSftImgLocLft")
         locSftImgLocLft.href = './loc_lft.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("locSftImgSettings")!= null) {
+      if (document.getElementById("locSftImgSettings") != null) {
         let locSftImgSettings = document.getElementById("locSftImgSettings")
         locSftImgSettings.href = './settings.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("adsLftVideoSettings")!= null) {
+      if (document.getElementById("adsLftVideoSettings") != null) {
         let adsLftVideoSettings = document.getElementById("adsLftVideoSettings")
         adsLftVideoSettings.href = './settings.html?rd=9&pid=' + value9
       }
-      if (document.getElementById("locLftVideoSettings")!= null) {
+      if (document.getElementById("locLftVideoSettings") != null) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=9&pid=' + value9
       }
