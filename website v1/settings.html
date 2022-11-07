@@ -43,7 +43,6 @@
 			<div class="dropdown">
 				<button class="dropbtn">Profile</button>
 				<div class="dropdown-content">
-				  <a href="#">Account</a>
 				  <a id="settings" href="./settings.html">Settings</a>
 				  <a href="./helpcenter.html">Help Center</a>
 				  <a href="#">Log Out</a>
@@ -60,11 +59,11 @@
 				<div class="profile-tab-nav border-right">
 					
 					<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical" aria-selected="false">
-						<a class="nav-link" id="account-tab" data-toggle="pill" href="#account" role="tab" aria-controls="account" aria-selected="true">
+						<a class="nav-link active" id="account-tab" data-toggle="pill" href="#account" role="tab" aria-controls="account" aria-selected="true">
 							<i class="fa fa-home text-center mr-1"></i> 
 							Account
 						</a>
-						<a class="nav-link active" id="Privacy-tab" data-toggle="pill" href="#Privacy" role="tab" aria-controls="Privacy" >
+						<a class="nav-link" id="Privacy-tab" data-toggle="pill" href="#Privacy" role="tab" aria-controls="Privacy" >
 							<i class="fa fa-key text-center mr-1"></i> 
 							Privacy
 						</a>
@@ -76,7 +75,8 @@
 					</div>
 				</div>
 				<div class="tab-content p-4 p-md-5" id="v-pills-tabContent">
-					<div class="tab-pane fade" id="account" role="tabpanel" aria-labelledby="account-tab">
+
+					<div class="tab-pane fade show active" id="account" role="tabpanel" aria-labelledby="account-tab">
 						<h3 class="mb-4">Account Settings</h3>
 						<div class="row">
 							<div class="col-md-6">
@@ -127,7 +127,8 @@
 							<button class="btn btn-light">Cancel</button>
 						</div>
 					</div>
-					<div class="tab-pane fade show active" id="Privacy" role="tabpanel" aria-labelledby="Privacy-tab">
+
+					<div class="tab-pane fade" id="Privacy" role="tabpanel" aria-labelledby="Privacy-tab">
 						<h3 class="mb-4">Privacy Settings</h3>
 						<div class="nav flex-column nav-pills-priv" id="v-pills-tab" role="tablist" aria-orientation="vertical" aria-selected="false"></div>
                         <a class="nav-link-priv" id="advertising-tab" data-toggle="pill" onclick="privacy_education_ads()"role="tab" aria-controls="#Advertising" aria-selected="true">
