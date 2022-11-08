@@ -1,4 +1,8 @@
 /* feed */
+.lft-in-feed{
+  margin-left: 20px;
+  margin-right: 20px;
+}
 .card.post {
   padding: 0;
 }
