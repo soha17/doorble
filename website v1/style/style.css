@@ -34,3 +34,10 @@
   border: 5px solid red;
 }
 
+#hide_ad {
+  cursor: pointer;
+}
+
+.homepageClickable {
+  cursor: pointer;
+}

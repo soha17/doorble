@@ -58,18 +58,12 @@ function ddl_loc() {
   }
 }
 function hideAd() {
-  // document.getElementById('furniture_ad').style.display = "block";
-  console.log("test")
   const targetDiv = document.getElementById("furniture_ad");
-  const btn = document.getElementById("hide_ad");
-  btn.onclick = function () {
-    if (targetDiv.style.display !== "none") {
-      targetDiv.style.display = "none";
-    } else {
-      targetDiv.style.display = "block";
-    }
-  };
-
+  if (targetDiv.style.display !== "none") {
+    targetDiv.style.display = "none";
+  } else {
+    targetDiv.style.display = "block";
+  }
 }
 
 function changeColor(image) {
@@ -151,13 +145,12 @@ function randomization(condition) {
         let inPostSettings = document.getElementById("inPostSettings")
         inPostSettings.href = './settings.html?rd=1&pid=' + value
       }
-      //Having trouble with this -- will need to fix if we want people to be able to click on "doorble.com" in the post
-      // if(document.getElementById("inPostLabelAdsLft")!=null){
-      //   let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-      //   inPostLabelAdsLft.onlick = function (){
-      //     inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
-      //   }
-      // }
+      if (document.getElementById("inPostLabelAdsLft") != null) {
+        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
+        inPostLabelAdsLft.onlick = function () {
+          inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
+        }
+      }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings = document.getElementById("inPostLocSettings")
         inPostLocSettings.href = './settings.html?rd=1&pid=' + value
@@ -284,13 +277,12 @@ function randomization(condition) {
         let inPostSettings2 = document.getElementById("inPostSettings")
         inPostSettings2.href = './settings.html?rd=2&pid=' + value2
       }
-      //Having trouble with this -- will need to fix if we want people to be able to click on "doorble.com" in the post
-      // if(document.getElementById("inPostLabelAdsLft")!=null){
-      //   let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-      //   inPostLabelAdsLft.onlick = function (){
-      //     inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
-      //   }
-      // }
+      if (document.getElementById("inPostLabelAdsLft") != null) {
+        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
+        inPostLabelAdsLft.onlick = function () {
+          inPostLabelAdsLft.href = './ads_lft.html?rd=2&pid=' + value2
+        }
+      }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings2 = document.getElementById("inPostLocSettings")
         inPostLocSettings2.href = './settings.html?rd=2&pid=' + value2
@@ -416,13 +408,12 @@ function randomization(condition) {
         let inPostSettings3 = document.getElementById("inPostSettings")
         inPostSettings3.href = './settings.html?rd=3&pid=' + value3
       }
-      //Having trouble with this -- will need to fix if we want people to be able to click on "doorble.com" in the post
-      // if(document.getElementById("inPostLabelAdsLft")!=null){
-      //   let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-      //   inPostLabelAdsLft.onlick = function (){
-      //     inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
-      //   }
-      // }
+      if (document.getElementById("inPostLabelAdsLft") != null) {
+        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
+        inPostLabelAdsLft.onlick = function () {
+          inPostLabelAdsLft.href = './ads_lft.html?rd=3&pid=' + value3
+        }
+      }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings3 = document.getElementById("inPostLocSettings")
         inPostLocSettings3.href = './settings.html?rd=3&pid=' + value3
@@ -525,13 +516,12 @@ function randomization(condition) {
         let inPostSettings4 = document.getElementById("inPostSettings")
         inPostSettings4.href = './settings.html?rd=4&pid=' + value4
       }
-      //Having trouble with this -- will need to fix if we want people to be able to click on "doorble.com" in the post
-      // if(document.getElementById("inPostLabelAdsLft")!=null){
-      //   let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-      //   inPostLabelAdsLft.onlick = function (){
-      //     inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
-      //   }
-      // }
+      if (document.getElementById("inPostLabelAdsLft") != null) {
+        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
+        inPostLabelAdsLft.onlick = function () {
+          inPostLabelAdsLft.href = './ads_lft.html?rd=4&pid=' + value4
+        }
+      }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings4 = document.getElementById("inPostLocSettings")
         inPostLocSettings4.href = './settings.html?rd=4&pid=' + value4
@@ -666,13 +656,12 @@ function randomization(condition) {
         let inPostSettings5 = document.getElementById("inPostSettings")
         inPostSettings5.href = './settings.html?rd=5&pid=' + value5
       }
-      //Having trouble with this -- will need to fix if we want people to be able to click on "doorble.com" in the post
-      // if(document.getElementById("inPostLabelAdsLft")!=null){
-      //   let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-      //   inPostLabelAdsLft.onlick = function (){
-      //     inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
-      //   }
-      // }
+      if(document.getElementById("inPostLabelAdsLft")!=null){
+        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
+        inPostLabelAdsLft.onlick = function (){
+          inPostLabelAdsLft.href = './ads_lft.html?rd=5&pid=' + value5
+        }
+      }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings5 = document.getElementById("inPostLocSettings")
         inPostLocSettings5.href = './settings.html?rd=5&pid=' + value5
@@ -806,13 +795,12 @@ function randomization(condition) {
         let inPostSettings6 = document.getElementById("inPostSettings")
         inPostSettings6.href = './settings.html?rd=6&pid=' + value6
       }
-      //Having trouble with this -- will need to fix if we want people to be able to click on "doorble.com" in the post
-      // if(document.getElementById("inPostLabelAdsLft")!=null){
-      //   let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-      //   inPostLabelAdsLft.onlick = function (){
-      //     inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
-      //   }
-      // }
+      if(document.getElementById("inPostLabelAdsLft")!=null){
+        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
+        inPostLabelAdsLft.onlick = function (){
+          inPostLabelAdsLft.href = './ads_lft.html?rd=6&pid=' + value6
+        }
+      }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings6 = document.getElementById("inPostLocSettings")
         inPostLocSettings6.href = './settings.html?rd=6&pid=' + value6
@@ -939,7 +927,6 @@ function randomization(condition) {
         let inPostSettings7 = document.getElementById("inPostSettings")
         inPostSettings7.href = './settings.html?rd=7&pid=' + value7
       }
-
       if (document.getElementById("inPostLabelAdsLft") != null) {
         let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
         inPostLabelAdsLft.onlick = function () {
