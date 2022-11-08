@@ -43,11 +43,7 @@
   background-size: 25px 1070px;
   filter: var(--filter-secondary-icon);
 }
-/* .location-icon:hover {
-  height: 24px;
-  width: 24px;
-  background-image: url("../images/location-icon.jpg");
-} */
+
 .plus-icon {
   background-position: 0 -570px;
   background-image: url("../images/icons.png");
@@ -164,21 +160,30 @@
 }
 
 
-/* for location*/
-.dropdown-loc {
+/* new location icon hover  */
+.loction-icon {
   position: relative;
   display: inline-block;
-  width: 100px;
 }
 
-.loc-dropdown-content {
-  display: none;
-  position: relative;
+/* loction-icon text */
+.loction-icon .loction-icontext {
+  visibility: hidden;
+  width: 300px;
+  border: solid;
+  background-color: rgb(252, 252, 252);
+  color: rgb(4, 3, 3);
+  text-align: left;
+  padding: 10px 10px ;
+  border-radius: 12px;
+  font-size: 12px;
+  position: absolute;
+  z-index: 1;
 }
 
-.location-icon:hover + .loc-dropdown-content {
-  display: block;
-  margin-top: 20px;
+/* Show the loction-icon text when you mouse over the loction-icon container */
+.loction-icon:hover .loction-icontext {
+  visibility: visible;
 }
 
 /* Dropdown Content (Hidden by Default) */
