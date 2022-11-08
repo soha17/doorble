@@ -146,9 +146,13 @@ function randomization(condition) {
         inPostSettings.href = './settings.html?rd=1&pid=' + value
       }
       if (document.getElementById("inPostLabelAdsLft") != null) {
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function () {
-          inPostLabelAdsLft.href = './ads_lft.html?rd=1&pid=' + value
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html?rd=1&pid=' + value
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html?rd=1&pid=' + value
         }
       }
       if (document.getElementById("inPostLocSettings") != null) {
@@ -201,7 +205,6 @@ function randomization(condition) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=1&pid=' + value
       }
-
       if (document.getElementById("registerbtn") != null) {
         let continueInRegistrationButton = document.getElementById("registerbtn")
         continueInRegistrationButton.onclick = function () {
@@ -277,10 +280,14 @@ function randomization(condition) {
         let inPostSettings2 = document.getElementById("inPostSettings")
         inPostSettings2.href = './settings.html?rd=2&pid=' + value2
       }
-      if (document.getElementById("inPostLabelAdsLft") != null) {
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function () {
-          inPostLabelAdsLft.href = './ads_lft.html?rd=2&pid=' + value2
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html?rd=2&pid=' + value2
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html?rd=2&pid=' + value2
         }
       }
       if (document.getElementById("inPostLocSettings") != null) {
@@ -408,10 +415,14 @@ function randomization(condition) {
         let inPostSettings3 = document.getElementById("inPostSettings")
         inPostSettings3.href = './settings.html?rd=3&pid=' + value3
       }
-      if (document.getElementById("inPostLabelAdsLft") != null) {
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function () {
-          inPostLabelAdsLft.href = './ads_lft.html?rd=3&pid=' + value3
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html?rd=3&pid=' + value3
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html?rd=3&pid=' + value3
         }
       }
       if (document.getElementById("inPostLocSettings") != null) {
@@ -516,10 +527,14 @@ function randomization(condition) {
         let inPostSettings4 = document.getElementById("inPostSettings")
         inPostSettings4.href = './settings.html?rd=4&pid=' + value4
       }
-      if (document.getElementById("inPostLabelAdsLft") != null) {
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function () {
-          inPostLabelAdsLft.href = './ads_lft.html?rd=4&pid=' + value4
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html?rd=4&pid=' + value4
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html?rd=4&pid=' + value4
         }
       }
       if (document.getElementById("inPostLocSettings") != null) {
@@ -656,10 +671,14 @@ function randomization(condition) {
         let inPostSettings5 = document.getElementById("inPostSettings")
         inPostSettings5.href = './settings.html?rd=5&pid=' + value5
       }
-      if(document.getElementById("inPostLabelAdsLft")!=null){
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function (){
-          inPostLabelAdsLft.href = './ads_lft.html?rd=5&pid=' + value5
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html?rd=5&pid=' + value5
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html?rd=5&pid=' + value5
         }
       }
       if (document.getElementById("inPostLocSettings") != null) {
@@ -795,10 +814,14 @@ function randomization(condition) {
         let inPostSettings6 = document.getElementById("inPostSettings")
         inPostSettings6.href = './settings.html?rd=6&pid=' + value6
       }
-      if(document.getElementById("inPostLabelAdsLft")!=null){
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function (){
-          inPostLabelAdsLft.href = './ads_lft.html?rd=6&pid=' + value6
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html?rd=6&pid=' + value6
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html?rd=6&pid=' + value6
         }
       }
       if (document.getElementById("inPostLocSettings") != null) {
@@ -927,19 +950,15 @@ function randomization(condition) {
         let inPostSettings7 = document.getElementById("inPostSettings")
         inPostSettings7.href = './settings.html?rd=7&pid=' + value7
       }
-      if (document.getElementById("inPostLabelAdsLft") != null) {
-        let inPostLabelAdsLft = document.getElementById("inPostLabelAdsLft")
-        inPostLabelAdsLft.onlick = function () {
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
           location.href = './ads_lft.html?rd=7&pid=' + value7
         }
       }
-
-      if (document.getElementById("inPostLabelSftLoc") != null) {
-        let inPostLabelSftLoc = document.getElementById("inPostLabelSftLoc")
-        inPostLabelSftLoc.onlick = function () {
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
           location.href = './loc_lft.html?rd=7&pid=' + value7
         }
-
       }
       if (document.getElementById("inPostLocSettings") != null) {
         let inPostLocSettings7 = document.getElementById("inPostLocSettings")
