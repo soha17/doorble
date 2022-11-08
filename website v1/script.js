@@ -1225,6 +1225,17 @@ function randomization(condition) {
       }
 
       break;
+    default:
+      if (document.getElementById("inPostLabelAdsLft") !== null) {
+        document.getElementById("inPostLabelAdsLft").onclick = function () {
+          location.href = './ads_lft.html'
+        }
+      }
+      if (document.getElementById("inPostLabelSftLoc") !== null) {
+        document.getElementById("inPostLabelSftLoc").onclick = function () {
+          location.href = './loc_lft.html'
+        }
+      }
   }
 }
 window.onload = function () {
