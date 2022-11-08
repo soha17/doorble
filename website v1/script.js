@@ -869,7 +869,7 @@ function randomization(condition) {
         settings.href = './settings.html?rd=6&pid=' + value6
       }
 
-      let settingsAds = document.getElementById("adSlider")
+      let settingsAds = document.getElementById("educationSlider")
       settingsAds.onclick = function () {
         let div = document.createElement("div")
         let button = document.createElement("button")
