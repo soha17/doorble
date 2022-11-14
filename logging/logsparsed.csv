@@ -8301,3 +8301,1573 @@
 "
 4150,09/Nov/2022,22:17:08,,,,"[09/Nov/2022:17:08:08 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
 "
+4151,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/homepage HTTP/1.1""  200
+"
+4152,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4153,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4154,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  304
+"
+4155,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4156,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4157,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4158,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4159,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4160,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4161,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4162,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4163,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4164,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4165,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4166,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4167,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  304
+"
+4168,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  304
+"
+4169,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  304
+"
+4170,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  304
+"
+4171,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4172,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4173,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  304
+"
+4174,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  304
+"
+4175,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4176,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  304
+"
+4177,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4178,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  304
+"
+4179,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  304
+"
+4180,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4181,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4182,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4183,10/Nov/2022,22:09:59,,,,"[10/Nov/2022:09:59:15 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4184,10/Nov/2022,22:09:59,,,,"[10/Nov/2022:09:59:15 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4185,10/Nov/2022,22:09:58,,,,"[10/Nov/2022:09:58:43 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4186,10/Nov/2022,22:11:52,,,/doorble/homepage.html,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/homepage.html HTTP/1.1""  200
+"
+4187,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4188,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4189,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4190,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4191,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4192,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4193,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4194,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4195,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4196,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4197,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4198,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4199,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4200,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4201,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4202,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4203,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4204,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4205,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4206,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4207,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4208,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4209,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4210,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:54 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4211,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4212,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4213,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4214,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4215,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4216,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4217,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4218,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4219,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4220,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4221,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4222,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:55 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4223,10/Nov/2022,22:11:52,,,,"[10/Nov/2022:11:52:59 -0500] ""GET /doorble/images/location-icon-off.png HTTP/1.1""  200
+"
+4224,10/Nov/2022,22:11:59,,,/doorble/homepage.html,"[10/Nov/2022:11:59:45 -0500] ""GET /doorble/homepage.html?=5 HTTP/1.1"" ?=5 200
+"
+4225,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:45 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4226,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:45 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4227,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:46 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4228,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:46 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4229,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:46 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4230,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:46 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4231,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:46 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4232,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:46 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4233,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:53 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4234,10/Nov/2022,22:11:59,,,/doorble/homepage.html,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/homepage.html?=9 HTTP/1.1"" ?=9 200
+"
+4235,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4236,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4237,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4238,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4239,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4240,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4241,10/Nov/2022,22:11:59,,,,"[10/Nov/2022:11:59:54 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4242,10/Nov/2022,22:12:00,rd=9,,/doorble/homepage.html,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/homepage.html?rd=9 HTTP/1.1"" ?rd=9 200
+"
+4243,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4244,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4245,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4246,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4247,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4248,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:02 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4249,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:31 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4250,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:31 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4251,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:31 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4252,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:31 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4253,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:31 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4254,10/Nov/2022,22:12:00,,,,"[10/Nov/2022:12:00:31 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4255,11/Nov/2022,22:13:29,rd=6,pid=610b491da55c09ba8c253163,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/homepage?rd=6&pid=610b491da55c09ba8c253163 HTTP/1.1"" ?rd=6&pid=610b491da55c09ba8c253163 200
+"
+4256,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4257,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4258,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4259,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4260,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4261,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4262,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4263,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4264,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4265,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4266,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4267,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4268,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4269,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4270,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4271,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4272,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4273,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4274,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4275,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4276,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4277,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4278,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:25 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4279,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4280,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4281,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4282,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4283,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4284,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4285,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4286,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4287,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4288,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:26 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4289,11/Nov/2022,22:13:29,rd=6,pid=610b491da55c09ba8c253163,/doorble/settings.html,"[11/Nov/2022:13:29:40 -0500] ""GET /doorble/settings.html?rd=6&pid=610b491da55c09ba8c253163 HTTP/1.1"" ?rd=6&pid=610b491da55c09ba8c253163 200
+"
+4290,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:40 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4291,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:40 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4292,11/Nov/2022,22:13:29,,,,"[11/Nov/2022:13:29:40 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4293,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:10 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4294,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:10 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4295,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:10 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4296,11/Nov/2022,22:13:30,rd=5,pid=5fc2c0cfdb80f9025c6b4810,,"[11/Nov/2022:13:30:23 -0500] ""GET /doorble/homepage?rd=5&pid=5fc2c0cfdb80f9025c6b4810 HTTP/1.1"" ?rd=5&pid=5fc2c0cfdb80f9025c6b4810 200
+"
+4297,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:23 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4298,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:23 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4299,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:23 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4300,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:23 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4301,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4302,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4303,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4304,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4305,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4306,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4307,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4308,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4309,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4310,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4311,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4312,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4313,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4314,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4315,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:24 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4316,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4317,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4318,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4319,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4320,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4321,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4322,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4323,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4324,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4325,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4326,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:25 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4327,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:27 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4328,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:27 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4329,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:27 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4330,11/Nov/2022,22:13:30,rd=5,pid=5fc2c0cfdb80f9025c6b4810,/doorble/helpcenter.html,"[11/Nov/2022:13:30:29 -0500] ""GET /doorble/helpcenter.html?rd=5&pid=5fc2c0cfdb80f9025c6b4810 HTTP/1.1"" ?rd=5&pid=5fc2c0cfdb80f9025c6b4810 200
+"
+4331,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:29 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4332,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:29 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4333,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:29 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4334,11/Nov/2022,22:13:30,rd=6,pid=SV,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/homepage?rd=6&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=6&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4335,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4336,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4337,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4338,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4339,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4340,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:44 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4341,11/Nov/2022,22:13:30,rd=6,pid=SV,/doorble/settings.html,"[11/Nov/2022:13:30:49 -0500] ""GET /doorble/settings.html?rd=6&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=6&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4342,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:49 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4343,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:49 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4344,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:49 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4345,11/Nov/2022,22:13:30,rd=5,pid=5fc2c0cfdb80f9025c6b4810,/doorble/ads_lft_video.html,"[11/Nov/2022:13:30:52 -0500] ""GET /doorble/ads_lft_video.html?rd=5&pid=5fc2c0cfdb80f9025c6b4810 HTTP/1.1"" ?rd=5&pid=5fc2c0cfdb80f9025c6b4810 200
+"
+4346,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:52 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4347,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:52 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4348,11/Nov/2022,22:13:30,,,,"[11/Nov/2022:13:30:52 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4349,11/Nov/2022,22:13:31,,,,"[11/Nov/2022:13:31:25 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4350,11/Nov/2022,22:13:32,rd=6,pid=610b491da55c09ba8c253163,,"[11/Nov/2022:13:32:25 -0500] ""GET /doorble/settings?rd=6&pid=610b491da55c09ba8c253163 HTTP/1.1"" ?rd=6&pid=610b491da55c09ba8c253163 200
+"
+4351,11/Nov/2022,22:13:32,,,,"[11/Nov/2022:13:32:25 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4352,11/Nov/2022,22:13:32,,,,"[11/Nov/2022:13:32:25 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4353,11/Nov/2022,22:13:32,,,,"[11/Nov/2022:13:32:25 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4354,11/Nov/2022,22:13:32,rd=6,pid=610b491da55c09ba8c253163,/doorble/ads_lft.html,"[11/Nov/2022:13:32:32 -0500] ""GET /doorble/ads_lft.html?rd=6&pid=610b491da55c09ba8c253163 HTTP/1.1"" ?rd=6&pid=610b491da55c09ba8c253163 200
+"
+4355,11/Nov/2022,22:13:32,,,,"[11/Nov/2022:13:32:32 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4356,11/Nov/2022,22:13:32,,,,"[11/Nov/2022:13:32:32 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4357,11/Nov/2022,22:13:34,,,,"[11/Nov/2022:13:34:58 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4358,11/Nov/2022,22:13:34,,,,"[11/Nov/2022:13:34:58 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4359,11/Nov/2022,22:13:34,,,,"[11/Nov/2022:13:34:58 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4360,11/Nov/2022,22:13:35,rd=6,pid=610b491da55c09ba8c253163,/doorble/loc_lft.html,"[11/Nov/2022:13:35:01 -0500] ""GET /doorble/loc_lft.html?rd=6&pid=610b491da55c09ba8c253163 HTTP/1.1"" ?rd=6&pid=610b491da55c09ba8c253163 200
+"
+4361,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:02 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4362,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:02 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4363,11/Nov/2022,22:13:35,rd=5,pid=SV,,"[11/Nov/2022:13:35:45 -0500] ""GET /doorble/homepage?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4364,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:46 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4365,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:46 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4366,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:48 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4367,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:48 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4368,11/Nov/2022,22:13:35,rd=5,pid=SV,/doorble/helpcenter.html,"[11/Nov/2022:13:35:58 -0500] ""GET /doorble/helpcenter.html?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4369,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:58 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4370,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:59 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4371,11/Nov/2022,22:13:35,,,,"[11/Nov/2022:13:35:59 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4372,11/Nov/2022,22:13:36,rd=5,pid=SV,/doorble/loc_lft_video.html,"[11/Nov/2022:13:36:00 -0500] ""GET /doorble/loc_lft_video.html?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4373,11/Nov/2022,22:13:36,,,,"[11/Nov/2022:13:36:00 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4374,11/Nov/2022,22:13:36,,,,"[11/Nov/2022:13:36:00 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4375,11/Nov/2022,22:13:36,,,,"[11/Nov/2022:13:36:00 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4376,11/Nov/2022,22:13:36,,,,"[11/Nov/2022:13:36:02 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4377,11/Nov/2022,22:13:37,rd=5,pid=61655693723e4db75af4694a,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/homepage?rd=5&pid=61655693723e4db75af4694a HTTP/1.1"" ?rd=5&pid=61655693723e4db75af4694a 200
+"
+4378,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4379,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4380,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4381,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4382,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4383,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4384,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4385,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4386,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4387,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4388,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4389,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4390,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4391,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4392,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:46 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4393,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4394,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4395,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4396,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4397,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4398,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4399,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4400,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4401,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4402,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4403,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4404,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4405,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4406,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4407,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:48 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4408,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:47 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4409,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:48 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4410,11/Nov/2022,22:13:37,rd=5,pid=61655693723e4db75af4694a,/doorble/helpcenter.html,"[11/Nov/2022:13:37:59 -0500] ""GET /doorble/helpcenter.html?rd=5&pid=61655693723e4db75af4694a HTTP/1.1"" ?rd=5&pid=61655693723e4db75af4694a 200
+"
+4411,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:59 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4412,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:59 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4413,11/Nov/2022,22:13:37,,,,"[11/Nov/2022:13:37:59 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4414,11/Nov/2022,22:13:38,rd=5,pid=61655693723e4db75af4694a,/doorble/ads_lft_video.html,"[11/Nov/2022:13:38:12 -0500] ""GET /doorble/ads_lft_video.html?rd=5&pid=61655693723e4db75af4694a HTTP/1.1"" ?rd=5&pid=61655693723e4db75af4694a 200
+"
+4415,11/Nov/2022,22:13:38,,,,"[11/Nov/2022:13:38:12 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4416,11/Nov/2022,22:13:38,,,,"[11/Nov/2022:13:38:12 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4417,11/Nov/2022,22:13:38,,,,"[11/Nov/2022:13:38:12 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4418,11/Nov/2022,22:13:38,,,,"[11/Nov/2022:13:38:45 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4419,11/Nov/2022,22:13:42,rd=5,pid=SV,,"[11/Nov/2022:13:42:48 -0500] ""GET /doorble/homepage?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4420,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:48 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4421,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:48 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4422,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:48 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4423,11/Nov/2022,22:13:42,rd=5,pid=SV,/doorble/helpcenter.html,"[11/Nov/2022:13:42:52 -0500] ""GET /doorble/helpcenter.html?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4424,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:52 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4425,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:52 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4426,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:52 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4427,11/Nov/2022,22:13:42,rd=5,pid=SV,/doorble/loc_lft_video.html,"[11/Nov/2022:13:42:53 -0500] ""GET /doorble/loc_lft_video.html?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4428,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:53 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4429,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:53 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4430,11/Nov/2022,22:13:42,,,,"[11/Nov/2022:13:42:58 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4431,11/Nov/2022,22:13:44,,,,"[11/Nov/2022:13:44:25 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4432,11/Nov/2022,22:13:44,,,,"[11/Nov/2022:13:44:25 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4433,11/Nov/2022,22:13:46,rd=6,pid=62cd98bbb43358b526ac64ab,,"[11/Nov/2022:13:46:29 -0500] ""GET /doorble/homepage?rd=6&pid=62cd98bbb43358b526ac64ab HTTP/1.1"" ?rd=6&pid=62cd98bbb43358b526ac64ab 200
+"
+4434,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4435,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4436,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4437,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4438,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4439,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4440,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4441,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4442,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4443,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4444,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4445,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4446,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4447,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4448,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4449,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4450,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4451,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4452,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4453,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4454,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4455,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4456,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4457,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4458,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4459,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4460,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4461,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4462,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4463,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4464,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4465,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4466,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4467,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:30 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4468,11/Nov/2022,22:13:46,,,,"[11/Nov/2022:13:46:31 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4469,11/Nov/2022,22:13:47,rd=5,pid=5fc2c0cfdb80f9025c6b4810,/doorble/loc_lft_video.html,"[11/Nov/2022:13:47:13 -0500] ""GET /doorble/loc_lft_video.html?rd=5&pid=5fc2c0cfdb80f9025c6b4810 HTTP/1.1"" ?rd=5&pid=5fc2c0cfdb80f9025c6b4810 200
+"
+4470,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:14 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4471,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:14 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4472,11/Nov/2022,22:13:47,rd=6,pid=62cd98bbb43358b526ac64ab,/doorble/settings.html,"[11/Nov/2022:13:47:22 -0500] ""GET /doorble/settings.html?rd=6&pid=62cd98bbb43358b526ac64ab HTTP/1.1"" ?rd=6&pid=62cd98bbb43358b526ac64ab 200
+"
+4473,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:22 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4474,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:22 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4475,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:22 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4476,11/Nov/2022,22:13:47,rd=2,pid=5fb2bfff81cd30924981bf7e,,"[11/Nov/2022:13:47:26 -0500] ""GET /doorble/registration?rd=2&pid=5fb2bfff81cd30924981bf7e HTTP/1.1"" ?rd=2&pid=5fb2bfff81cd30924981bf7e 200
+"
+4477,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:26 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4478,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:26 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4479,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4480,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4481,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4482,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4483,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4484,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4485,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4486,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4487,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4488,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4489,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4490,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4491,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:27 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4492,11/Nov/2022,22:13:47,rd=2,pid=5fb2bfff81cd30924981bf7e,/doorble/ads_lft_video.html,"[11/Nov/2022:13:47:56 -0500] ""GET /doorble/ads_lft_video.html?rd=2&pid=5fb2bfff81cd30924981bf7e HTTP/1.1"" ?rd=2&pid=5fb2bfff81cd30924981bf7e 200
+"
+4493,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:56 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4494,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:56 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4495,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:56 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4496,11/Nov/2022,22:13:47,,,,"[11/Nov/2022:13:47:56 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4497,11/Nov/2022,22:13:48,rd=6,pid=SV,,"[11/Nov/2022:13:48:03 -0500] ""GET /doorble/homepage?rd=6&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=6&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4498,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:03 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4499,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:03 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4500,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:03 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4501,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:03 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4502,11/Nov/2022,22:13:48,rd=2,pid=5fb2bfff81cd30924981bf7e,/doorble/loc_lft_video.html,"[11/Nov/2022:13:48:12 -0500] ""GET /doorble/loc_lft_video.html?rd=2&pid=5fb2bfff81cd30924981bf7e HTTP/1.1"" ?rd=2&pid=5fb2bfff81cd30924981bf7e 200
+"
+4503,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:12 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4504,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:12 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4505,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:13 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4506,11/Nov/2022,22:13:48,rd=6,pid=SV,/doorble/settings.html,"[11/Nov/2022:13:48:18 -0500] ""GET /doorble/settings.html?rd=6&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=6&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4507,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:18 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4508,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:18 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4509,11/Nov/2022,22:13:48,,,,"[11/Nov/2022:13:48:18 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4510,11/Nov/2022,22:13:49,rd=6,pid=62cd98bbb43358b526ac64ab,,"[11/Nov/2022:13:49:49 -0500] ""GET /doorble/settings?rd=6&pid=62cd98bbb43358b526ac64ab HTTP/1.1"" ?rd=6&pid=62cd98bbb43358b526ac64ab 200
+"
+4511,11/Nov/2022,22:13:49,,,,"[11/Nov/2022:13:49:49 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4512,11/Nov/2022,22:13:49,,,,"[11/Nov/2022:13:49:50 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4513,11/Nov/2022,22:13:49,,,,"[11/Nov/2022:13:49:50 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4514,11/Nov/2022,22:13:49,rd=6,pid=62cd98bbb43358b526ac64ab,/doorble/ads_lft.html,"[11/Nov/2022:13:49:53 -0500] ""GET /doorble/ads_lft.html?rd=6&pid=62cd98bbb43358b526ac64ab HTTP/1.1"" ?rd=6&pid=62cd98bbb43358b526ac64ab 200
+"
+4515,11/Nov/2022,22:13:49,,,,"[11/Nov/2022:13:49:53 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4516,11/Nov/2022,22:13:49,,,,"[11/Nov/2022:13:49:53 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4517,11/Nov/2022,22:13:50,,,,"[11/Nov/2022:13:50:57 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4518,11/Nov/2022,22:13:50,,,,"[11/Nov/2022:13:50:57 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4519,11/Nov/2022,22:13:50,,,,"[11/Nov/2022:13:50:57 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4520,11/Nov/2022,22:13:50,,,,"[11/Nov/2022:13:50:57 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4521,11/Nov/2022,22:13:50,,,,"[11/Nov/2022:13:50:57 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4522,11/Nov/2022,22:13:50,,,,"[11/Nov/2022:13:50:57 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4523,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:18 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4524,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:18 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4525,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:18 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4526,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:18 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4527,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:18 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4528,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:49 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4529,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:49 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4530,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:49 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4531,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:54 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4532,11/Nov/2022,22:13:52,,,,"[11/Nov/2022:13:52:54 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4533,11/Nov/2022,22:13:53,rd=6,pid=62cd98bbb43358b526ac64ab,/doorble/loc_lft.html,"[11/Nov/2022:13:53:00 -0500] ""GET /doorble/loc_lft.html?rd=6&pid=62cd98bbb43358b526ac64ab HTTP/1.1"" ?rd=6&pid=62cd98bbb43358b526ac64ab 200
+"
+4534,11/Nov/2022,22:13:53,,,,"[11/Nov/2022:13:53:00 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4535,11/Nov/2022,22:13:53,,,,"[11/Nov/2022:13:53:00 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4536,11/Nov/2022,22:13:58,rd=5,pid=61655693723e4db75af4694a,/doorble/loc_lft_video.html,"[11/Nov/2022:13:58:07 -0500] ""GET /doorble/loc_lft_video.html?rd=5&pid=61655693723e4db75af4694a HTTP/1.1"" ?rd=5&pid=61655693723e4db75af4694a 200
+"
+4537,11/Nov/2022,22:13:58,,,,"[11/Nov/2022:13:58:07 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4538,11/Nov/2022,22:13:58,,,,"[11/Nov/2022:13:58:07 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4539,11/Nov/2022,22:14:05,rd=9,pid=Jack,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/homepage?rd=9&pid=Jack HTTP/1.1"" ?rd=9&pid=Jack 200
+"
+4540,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4541,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4542,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4543,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4544,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4545,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4546,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4547,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4548,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4549,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4550,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4551,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4552,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4553,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4554,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4555,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4556,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4557,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4558,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4559,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4560,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4561,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4562,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4563,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4564,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4565,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4566,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4567,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4568,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4569,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4570,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4571,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4572,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4573,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4574,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:50 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4575,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:49 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4576,11/Nov/2022,22:14:05,rd=9,pid=Jack,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/homepage?rd=9&pid=Jack HTTP/1.1"" ?rd=9&pid=Jack 200
+"
+4577,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4578,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4579,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4580,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4581,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4582,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4583,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4584,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4585,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4586,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4587,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4588,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4589,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4590,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4591,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4592,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4593,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4594,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4595,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4596,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4597,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4598,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4599,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4600,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4601,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4602,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4603,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4604,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4605,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4606,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4607,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4608,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4609,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4610,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:52 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4611,11/Nov/2022,22:14:05,rd=9,pid=Jack,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/homepage?rd=9&pid=Jack HTTP/1.1"" ?rd=9&pid=Jack 200
+"
+4612,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4613,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4614,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4615,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4616,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4617,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4618,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4619,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4620,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4621,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4622,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4623,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4624,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4625,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4626,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4627,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4628,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4629,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4630,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4631,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4632,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4633,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4634,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4635,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4636,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4637,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4638,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4639,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4640,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4641,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4642,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4643,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4644,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:57 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4645,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4646,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4647,11/Nov/2022,22:14:05,,,,"[11/Nov/2022:14:05:56 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4648,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:22 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4649,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:31 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4650,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:48 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4651,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:48 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4652,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:48 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4653,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:48 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4654,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:48 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4655,11/Nov/2022,22:14:06,,,,"[11/Nov/2022:14:06:48 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4656,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:48 -0500] ""GET /doorble/website%20v1/homepage.html HTTP/1.1""  404
+"
+4657,11/Nov/2022,22:17:13,,,/doorble/homepage.html,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/homepage.html HTTP/1.1""  200
+"
+4658,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4659,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4660,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4661,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4662,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4663,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4664,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4665,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4666,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4667,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4668,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4669,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4670,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4671,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4672,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4673,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4674,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4675,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4676,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4677,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4678,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4679,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4680,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4681,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4682,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4683,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4684,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4685,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4686,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4687,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4688,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4689,11/Nov/2022,22:17:13,,,,"[11/Nov/2022:17:13:54 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4690,12/Nov/2022,22:18:45,rd=8,pid=5c10e8870c0a040001fe7b86,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/homepage?rd=8&pid=5c10e8870c0a040001fe7b86 HTTP/1.1"" ?rd=8&pid=5c10e8870c0a040001fe7b86 200
+"
+4691,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4692,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4693,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4694,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4695,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4696,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4697,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4698,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4699,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4700,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4701,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4702,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4703,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4704,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4705,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4706,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4707,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4708,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4709,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4710,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4711,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4712,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4713,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:17 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4714,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4715,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4716,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4717,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4718,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4719,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4720,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4721,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:18 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4722,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:25 -0500] ""GET /doorble/images/like_icon_liked.png HTTP/1.1""  200
+"
+4723,12/Nov/2022,22:18:45,,,,"[12/Nov/2022:18:45:35 -0500] ""GET /doorble/images/dislike_icon_disliked.png HTTP/1.1""  200
+"
+4724,12/Nov/2022,22:18:47,,,,"[12/Nov/2022:18:47:27 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4725,12/Nov/2022,22:18:47,,,,"[12/Nov/2022:18:47:27 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4726,12/Nov/2022,22:18:47,,,,"[12/Nov/2022:18:47:28 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4727,12/Nov/2022,22:18:47,rd=8,pid=5c10e8870c0a040001fe7b86,/doorble/ads_lft.html,"[12/Nov/2022:18:47:35 -0500] ""GET /doorble/ads_lft.html?rd=8&pid=5c10e8870c0a040001fe7b86 HTTP/1.1"" ?rd=8&pid=5c10e8870c0a040001fe7b86 200
+"
+4728,12/Nov/2022,22:18:47,,,,"[12/Nov/2022:18:47:35 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4729,12/Nov/2022,22:18:47,,,,"[12/Nov/2022:18:47:35 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4730,12/Nov/2022,22:18:50,,,,"[12/Nov/2022:18:50:55 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4731,12/Nov/2022,22:18:50,,,,"[12/Nov/2022:18:50:55 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4732,12/Nov/2022,22:18:50,,,,"[12/Nov/2022:18:50:56 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4733,12/Nov/2022,22:18:50,,,,"[12/Nov/2022:18:50:56 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4734,12/Nov/2022,22:18:51,rd=8,pid=5c10e8870c0a040001fe7b86,/doorble/loc_lft.html,"[12/Nov/2022:18:51:00 -0500] ""GET /doorble/loc_lft.html?rd=8&pid=5c10e8870c0a040001fe7b86 HTTP/1.1"" ?rd=8&pid=5c10e8870c0a040001fe7b86 200
+"
+4735,12/Nov/2022,22:18:51,,,,"[12/Nov/2022:18:51:01 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4736,12/Nov/2022,22:18:51,,,,"[12/Nov/2022:18:51:01 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4737,12/Nov/2022,22:18:58,rd=9,pid=636544043a67ab8ae2c335b1,,"[12/Nov/2022:18:58:06 -0500] ""GET /doorble/homepage?rd=9&pid=636544043a67ab8ae2c335b1 HTTP/1.1"" ?rd=9&pid=636544043a67ab8ae2c335b1 200
+"
+4738,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:07 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4739,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:07 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4740,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:07 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4741,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:07 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4742,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:08 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4743,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:08 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4744,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:08 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4745,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:08 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4746,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:08 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4747,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:09 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4748,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:09 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4749,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:09 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4750,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:09 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4751,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:09 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4752,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:09 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4753,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:10 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4754,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:10 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4755,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:10 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4756,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:11 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4757,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:11 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4758,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:11 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4759,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:11 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4760,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:11 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4761,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:12 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4762,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:12 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4763,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:12 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4764,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:12 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4765,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:13 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4766,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:13 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4767,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:13 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4768,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:13 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4769,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:13 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4770,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:17 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4771,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:19 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4772,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:26 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4773,12/Nov/2022,22:18:58,rd=4,pid=5c778f10848d2a0016b3c65d,,"[12/Nov/2022:18:58:53 -0500] ""GET /doorble/homepage?rd=4&pid=5c778f10848d2a0016b3c65d HTTP/1.1"" ?rd=4&pid=5c778f10848d2a0016b3c65d 200
+"
+4774,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:54 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4775,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:54 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4776,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:54 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4777,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:54 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4778,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:54 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4779,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:54 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4780,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4781,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4782,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4783,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4784,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4785,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4786,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4787,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4788,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4789,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:55 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4790,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4791,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4792,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4793,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/ad-icon.jpg HTTP/1.1""  200
+"
+4794,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4795,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4796,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4797,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4798,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4799,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4800,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4801,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4802,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:56 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4803,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4804,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:58 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4805,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:58 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4806,12/Nov/2022,22:18:58,,,,"[12/Nov/2022:18:58:57 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4807,12/Nov/2022,22:18:59,rd=4,pid=5c778f10848d2a0016b3c65d,/doorble/helpcenter.html,"[12/Nov/2022:18:59:07 -0500] ""GET /doorble/helpcenter.html?rd=4&pid=5c778f10848d2a0016b3c65d HTTP/1.1"" ?rd=4&pid=5c778f10848d2a0016b3c65d 200
+"
+4808,12/Nov/2022,22:18:59,,,,"[12/Nov/2022:18:59:07 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4809,12/Nov/2022,22:18:59,,,,"[12/Nov/2022:18:59:07 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4810,12/Nov/2022,22:18:59,,,,"[12/Nov/2022:18:59:07 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4811,12/Nov/2022,22:18:59,rd=4,pid=5c778f10848d2a0016b3c65d,/doorble/ads_sft_img.html,"[12/Nov/2022:18:59:25 -0500] ""GET /doorble/ads_sft_img.html?rd=4&pid=5c778f10848d2a0016b3c65d HTTP/1.1"" ?rd=4&pid=5c778f10848d2a0016b3c65d 200
+"
+4812,12/Nov/2022,22:18:59,,,,"[12/Nov/2022:18:59:25 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4813,12/Nov/2022,22:18:59,,,,"[12/Nov/2022:18:59:25 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4814,12/Nov/2022,22:19:00,rd=4,pid=5c778f10848d2a0016b3c65d,/doorble/loc_sft_img.html,"[12/Nov/2022:19:00:00 -0500] ""GET /doorble/loc_sft_img.html?rd=4&pid=5c778f10848d2a0016b3c65d HTTP/1.1"" ?rd=4&pid=5c778f10848d2a0016b3c65d 200
+"
+4815,12/Nov/2022,22:19:00,,,,"[12/Nov/2022:19:00:00 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4816,12/Nov/2022,22:19:00,,,,"[12/Nov/2022:19:00:01 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4817,12/Nov/2022,22:19:00,,,,"[12/Nov/2022:19:00:37 -0500] ""GET /doorble/images/like_icon_liked.png HTTP/1.1""  200
+"
+4818,12/Nov/2022,22:19:00,,,,"[12/Nov/2022:19:00:37 -0500] ""GET /doorble/images/like_icon_liked.png HTTP/1.1""  200
+"
+4819,12/Nov/2022,22:19:00,,,,"[12/Nov/2022:19:00:38 -0500] ""GET /doorble/images/like_icon_liked.png HTTP/1.1""  200
+"
+4820,12/Nov/2022,22:19:00,,,,"[12/Nov/2022:19:00:38 -0500] ""GET /doorble/images/like_icon_liked.png HTTP/1.1""  200
+"
+4821,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:02 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4822,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:03 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4823,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:03 -0500] ""GET /doorble/jquery-3.6.0.min.js HTTP/1.1""  404
+"
+4824,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:04 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4825,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:04 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4826,12/Nov/2022,22:19:01,rd=4,pid=5c778f10848d2a0016b3c65d,/doorble/ads_lft.html,"[12/Nov/2022:19:01:14 -0500] ""GET /doorble/ads_lft.html?rd=4&pid=5c778f10848d2a0016b3c65d HTTP/1.1"" ?rd=4&pid=5c778f10848d2a0016b3c65d 200
+"
+4827,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:15 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4828,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:15 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4829,12/Nov/2022,22:19:01,rd=4,pid=5c778f10848d2a0016b3c65d,/doorble/loc_lft.html,"[12/Nov/2022:19:01:39 -0500] ""GET /doorble/loc_lft.html?rd=4&pid=5c778f10848d2a0016b3c65d HTTP/1.1"" ?rd=4&pid=5c778f10848d2a0016b3c65d 200
+"
+4830,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:39 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4831,12/Nov/2022,22:19:01,,,,"[12/Nov/2022:19:01:39 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4832,12/Nov/2022,22:19:02,,,/doorble/ads_sft_img.html,"[12/Nov/2022:19:02:18 -0500] ""GET /doorble/ads_sft_img.html HTTP/1.1""  200
+"
+4833,12/Nov/2022,22:19:02,,,,"[12/Nov/2022:19:02:18 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4834,12/Nov/2022,22:19:02,,,,"[12/Nov/2022:19:02:18 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4835,12/Nov/2022,22:19:02,,,/doorble/ads_lft.html,"[12/Nov/2022:19:02:27 -0500] ""GET /doorble/ads_lft.html HTTP/1.1""  200
+"
+4836,12/Nov/2022,22:19:02,,,,"[12/Nov/2022:19:02:28 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4837,12/Nov/2022,22:19:02,,,,"[12/Nov/2022:19:02:28 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4838,12/Nov/2022,22:19:03,rd=1,pid=60750163b9a82e46f7734e37,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/registration?rd=1&pid=60750163b9a82e46f7734e37 HTTP/1.1"" ?rd=1&pid=60750163b9a82e46f7734e37 200
+"
+4839,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4840,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4841,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4842,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4843,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4844,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:21 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4845,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4846,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4847,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4848,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4849,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4850,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4851,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4852,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4853,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:22 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4854,12/Nov/2022,22:19:03,rd=1,pid=60750163b9a82e46f7734e37,/doorble/ads_sft_img.html,"[12/Nov/2022:19:03:48 -0500] ""GET /doorble/ads_sft_img.html?rd=1&pid=60750163b9a82e46f7734e37 HTTP/1.1"" ?rd=1&pid=60750163b9a82e46f7734e37 200
+"
+4855,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:49 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4856,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:49 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4857,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:49 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4858,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:49 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4859,12/Nov/2022,22:19:03,rd=1,pid=60750163b9a82e46f7734e37,/doorble/loc_sft_img.html,"[12/Nov/2022:19:03:55 -0500] ""GET /doorble/loc_sft_img.html?rd=1&pid=60750163b9a82e46f7734e37 HTTP/1.1"" ?rd=1&pid=60750163b9a82e46f7734e37 200
+"
+4860,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:55 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4861,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:55 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4862,12/Nov/2022,22:19:03,,,,"[12/Nov/2022:19:03:55 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4863,12/Nov/2022,22:19:04,,,,"[12/Nov/2022:19:04:16 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4864,12/Nov/2022,22:19:04,,,,"[12/Nov/2022:19:04:16 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4865,12/Nov/2022,22:19:04,,,,"[12/Nov/2022:19:04:28 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4866,12/Nov/2022,22:19:04,,,,"[12/Nov/2022:19:04:28 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4867,12/Nov/2022,22:19:06,,,,"[12/Nov/2022:19:06:21 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4868,12/Nov/2022,22:19:06,,,,"[12/Nov/2022:19:06:21 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4869,12/Nov/2022,22:19:08,rd=1,pid=60750163b9a82e46f7734e37,/doorble/ads_lft.html,"[12/Nov/2022:19:08:51 -0500] ""GET /doorble/ads_lft.html?rd=1&pid=60750163b9a82e46f7734e37 HTTP/1.1"" ?rd=1&pid=60750163b9a82e46f7734e37 200
+"
+4870,12/Nov/2022,22:19:08,,,,"[12/Nov/2022:19:08:51 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4871,12/Nov/2022,22:19:08,,,,"[12/Nov/2022:19:08:51 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4872,12/Nov/2022,22:19:09,rd=3,pid=61108719ddb956bd0e94733d,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/homepage?rd=3&pid=61108719ddb956bd0e94733d HTTP/1.1"" ?rd=3&pid=61108719ddb956bd0e94733d 200
+"
+4873,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/style.css HTTP/1.1""  200
+"
+4874,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/script.js HTTP/1.1""  200
+"
+4875,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/images/doorble_icon.jpg HTTP/1.1""  200
+"
+4876,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/reset.css HTTP/1.1""  200
+"
+4877,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/system-tokens.css HTTP/1.1""  200
+"
+4878,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/common.css HTTP/1.1""  200
+"
+4879,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/navigation.css HTTP/1.1""  200
+"
+4880,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/icons.css HTTP/1.1""  200
+"
+4881,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/content/grid.css HTTP/1.1""  200
+"
+4882,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4883,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4884,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/content/new-post.css HTTP/1.1""  200
+"
+4885,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/facebook-menu.css HTTP/1.1""  200
+"
+4886,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/right-column.css HTTP/1.1""  200
+"
+4887,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/style/content/feed.css HTTP/1.1""  200
+"
+4888,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/images/location-icon.png HTTP/1.1""  200
+"
+4889,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/images/furniture-depot-icon.jpg HTTP/1.1""  200
+"
+4890,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/images/furniture_ads.jpg HTTP/1.1""  200
+"
+4891,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/images/icons4.png HTTP/1.1""  200
+"
+4892,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:47 -0500] ""GET /doorble/images/like_icon.png HTTP/1.1""  200
+"
+4893,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/dislike_icon.png HTTP/1.1""  200
+"
+4894,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/icons5.png HTTP/1.1""  200
+"
+4895,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/icons8.png HTTP/1.1""  200
+"
+4896,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/comment-icon.png HTTP/1.1""  200
+"
+4897,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/education_pic.jpg HTTP/1.1""  200
+"
+4898,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/amy_adams.jpg HTTP/1.1""  200
+"
+4899,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/loc_pic.png HTTP/1.1""  200
+"
+4900,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/icons.png HTTP/1.1""  200
+"
+4901,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/breckenridgeNature.jpeg HTTP/1.1""  200
+"
+4902,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4903,12/Nov/2022,22:19:09,,,,"[12/Nov/2022:19:09:48 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4904,12/Nov/2022,22:19:10,,,,"[12/Nov/2022:19:10:18 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4905,12/Nov/2022,22:19:10,,,,"[12/Nov/2022:19:10:18 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4906,12/Nov/2022,22:19:10,,,,"[12/Nov/2022:19:10:05 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4907,12/Nov/2022,22:19:12,rd=3,pid=SV,,"[12/Nov/2022:19:12:07 -0500] ""GET /doorble/homepage?rd=3&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=3&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4908,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:07 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4909,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:07 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4910,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:09 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4911,12/Nov/2022,22:19:12,rd=3,pid=SV,/doorble/loc_lft.html,"[12/Nov/2022:19:12:48 -0500] ""GET /doorble/loc_lft.html?rd=3&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=3&pid=SV_cO3AKtgfjaDuEtg 200
+"
+4912,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:48 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4913,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:48 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4914,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:56 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4915,12/Nov/2022,22:19:12,,,,"[12/Nov/2022:19:12:56 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4916,12/Nov/2022,22:19:13,,,,"[12/Nov/2022:19:13:18 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4917,12/Nov/2022,22:19:14,,,,"[12/Nov/2022:19:14:52 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4918,12/Nov/2022,22:19:16,,,,"[12/Nov/2022:19:16:56 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4919,12/Nov/2022,22:19:16,,,,"[12/Nov/2022:19:16:56 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4920,12/Nov/2022,22:19:17,,,,"[12/Nov/2022:19:17:11 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4921,12/Nov/2022,22:19:17,,,,"[12/Nov/2022:19:17:11 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4922,12/Nov/2022,22:19:18,rd=3,pid=61108719ddb956bd0e94733d,/doorble/ads_lft.html,"[12/Nov/2022:19:18:42 -0500] ""GET /doorble/ads_lft.html?rd=3&pid=61108719ddb956bd0e94733d HTTP/1.1"" ?rd=3&pid=61108719ddb956bd0e94733d 200
+"
+4923,12/Nov/2022,22:19:18,,,,"[12/Nov/2022:19:18:42 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4924,12/Nov/2022,22:19:18,,,,"[12/Nov/2022:19:18:42 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4925,12/Nov/2022,22:19:21,,,,"[12/Nov/2022:19:21:44 -0500] ""GET /doorble/images/education_vid.mp4 HTTP/1.1""  206
+"
+4926,12/Nov/2022,22:19:21,,,,"[12/Nov/2022:19:21:40 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4927,12/Nov/2022,22:19:22,,,,"[12/Nov/2022:19:22:40 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4928,12/Nov/2022,22:19:22,,,,"[12/Nov/2022:19:22:42 -0500] ""GET /doorble/images/loc_vid.mp4 HTTP/1.1""  206
+"
+4929,12/Nov/2022,22:19:23,,,,"[12/Nov/2022:19:23:18 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4930,12/Nov/2022,22:19:23,,,,"[12/Nov/2022:19:23:18 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4931,12/Nov/2022,22:19:24,,,,"[12/Nov/2022:19:24:04 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4932,12/Nov/2022,22:19:24,,,,"[12/Nov/2022:19:24:04 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"
+4933,12/Nov/2022,22:19:26,rd=3,pid=61108719ddb956bd0e94733d,/doorble/loc_lft.html,"[12/Nov/2022:19:26:31 -0500] ""GET /doorble/loc_lft.html?rd=3&pid=61108719ddb956bd0e94733d HTTP/1.1"" ?rd=3&pid=61108719ddb956bd0e94733d 200
+"
+4934,12/Nov/2022,22:19:26,,,,"[12/Nov/2022:19:26:31 -0500] ""GET /doorble/style/content/stories.css HTTP/1.1""  404
+"
+4935,12/Nov/2022,22:19:26,,,,"[12/Nov/2022:19:26:31 -0500] ""GET /doorble/style/content/create-room.css HTTP/1.1""  404
+"

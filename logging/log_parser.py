@@ -23,47 +23,57 @@ pages_visited_pattern = r'/doorble/[a-zA-Z0-9_\-]+.html'
 # ok so we're getting the file name for every file in logs
 for file in os.listdir("logs"):
     filename = os.fsdecode(file)
-    #  print(filename)
-    #  print(os.listdir())
-    # got the file name -> now need to parse through it and make a bad boi df
-    file_path = directory + "/" + filename
-    fin = open(file_path, 'rt', encoding='utf-8')
-    for line in fin:
-        # date
-        date = re.search(date_pattern, line)
-        dates.append(date.group())
+    # Use condition to grab a specific log file -- should only need the most recent
+    if (filename == "logs11142022.txt"):
+        #  print(filename)
+        #  print(os.listdir())
+        # got the file name -> now need to parse through it and make a bad boi df
+        file_path = directory + "/" + filename
+        fin = open(file_path, 'rt', encoding='utf-8')
+        for line in fin:
+            # date
+            date = re.search(date_pattern, line)
+            dates.append(date.group())
 
-        # time
-        time = re.search(time_pattern, line)
-        times.append(time.group())
+            # time
+            time = re.search(time_pattern, line)
+            times.append(time.group())
 
-        # rd
-        rd = re.search(rd_pattern, line)
-        if rd != None:
-            rds.append(rd.group())
-        else:
-            rds.append("")
+            # rd
+            rd = re.search(rd_pattern, line)
+            if rd != None:
+                rds.append(rd.group())
+            else:
+                rds.append("")
+            
+            # pid
+            pid = re.search(pid_pattern, line)
+            if pid != None:
+                # print(pid.group())
+                pids.append(pid.group())
+            else:
+                pids.append("")
+            
+            page = re.search(pages_visited_pattern, line)
+            if page != None:
+                pages_visited.append(page.group())
+            else:
+                pages_visited.append("")
+            
+            raw_lines.append(line)
         
-        # pid
-        pid = re.search(pid_pattern, line)
-        if pid != None:
-            # print(pid.group())
-            pids.append(pid.group())
-        else:
-            pids.append("")
-        
-        page = re.search(pages_visited_pattern, line)
-        if page != None:
-            pages_visited.append(page.group())
-        else:
-            pages_visited.append("")
-        
-        raw_lines.append(line)
-        
-d = {'Date': dates, 'Time': times, 'Random': rds, 'Prolific ID': pids, 'Pages Visited': pages_visited, 'Raw lines': raw_lines}
-df = pd.DataFrame(d)
+        d = {'Date': dates, 'Time': times, 'Random': rds, 'Prolific ID': pids, 'Pages Visited': pages_visited, 'Raw lines': raw_lines}
+        df = pd.DataFrame(d)
+        print(df)
+        df.to_csv('logsparsed.csv')
+
+# Convert date to datetime
+df.Date = pd.to_datetime(df.Date)
+#
+df = df[df.Date > '11/Nov/2022']
+df = df[df['Prolific ID'] != '']
 print(df)
-df.to_csv('logsparsed.csv')
+df.to_csv('logscleaned.csv')
 
 # print(len(dates))
 # print(len(times))
