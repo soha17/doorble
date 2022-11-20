@@ -4,37 +4,49 @@ window.onload = function () {
     });
     // Get the value of "some_key" in eg "https://example.com/?some_key=some_value"
     let value = params.rd; // "some_value"
+    value = Number(value)
+    let completionDiv = document.getElementById("completion")
     switch (value) {
         case 1:
-            code = 97754
+            completionDiv.textContent = "Your completion code is 52531. You may now return to the survey, and after you enter your code, please close this tab."
             break;
         case 2:
-            code = 28314
+            completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
             break;
-        case 3:
-            code = 78782
+        case 31:
+            completionDiv.textContent = "Your completion code is 52532. You may now return to the survey, and after you enter your code, please close this tab."
             break;
-        case 4:
-            code = 13408
+        case 32:
+            completionDiv.textContent = "Your completion code is 52539. You may now return to the survey, and after you enter your code, please close this tab."
             break;
-        case 5:
-            code = 37007
+        case 41:
+            completionDiv.textContent = "Your completion code is 52538. You may now return to the survey, and after you enter your code, please close this tab."
             break;
-        case 6:
-            code = 16717
+        case 42:
+            completionDiv.textContent = "Your completion code is 52531. You may now return to the survey, and after you enter your code, please close this tab."
+            break;
+        case 51:
+            completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
+            break;
+        case 52:
+            completionDiv.textContent = "Your completion code is 52530. You may now return to the survey, and after you enter your code, please close this tab."
+            break;
+        case 61:
+            completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
+            break;
+        case 62:
+            completionDiv.textContent = "Your completion code is 52532. You may now return to the survey, and after you enter your code, please close this tab."
             break;
         case 7:
-            code = 91643
+            completionDiv.textContent = "Your completion code is 52533. You may now return to the survey, and after you enter your code, please close this tab."
             break;
         case 8:
-            code = 69927
+            completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
             break;
         case 9:
-            code = 68587
+            completionDiv.textContent = "Your completion code is 52539. You may now return to the survey, and after you enter your code, please close this tab."
             break;
         default:
             code = 11111
     }
-    let completion = document.getElementById("completion")
-    completion.textContent = code
 }

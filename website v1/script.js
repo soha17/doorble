@@ -104,10 +104,8 @@ function location_icon() {
 }
 
 function randomization(condition) {
-  // condition 1-9 will dictate where completion code appears
-  let completionDiv = document.createElement("div")
-  completionDiv.classList.add("completion-message")
-  completionDiv.id = "completionDiv"
+
+  let completionDiv = document.getElementById("completion")
   switch (condition) {
     case 1:
       //Get pid parameter
@@ -119,8 +117,10 @@ function randomization(condition) {
       value = String(value)
 
       //Ensure query parameters persist if participant clicks on other available links
-      let doorbleLogo = document.getElementById("doorble-logo")
-      doorbleLogo.href = './homepage.html?rd=1&pid=' + value
+      if (document.getElementById("doorble-logo") != null) {
+        let doorbleLogo = document.getElementById("doorble-logo")
+        doorbleLogo.href = './homepage.html?rd=1&pid=' + value
+      }
       if (document.getElementById("settings") != null) {
         let settings = document.getElementById("settings")
         settings.href = './settings.html?rd=1&pid=' + value
@@ -236,12 +236,8 @@ function randomization(condition) {
         let postBodyLoc = document.getElementById("post-body-loc")
         postBodyLoc.appendChild(finishRegistrationButton)
       }
-
-
       finishRegistrationButton.onclick = function () {
-        completionDiv.textContent = "Your completion code is 52531. You may now return to the survey, and after you enter your code, please close this tab."
-        let postBody = document.getElementById("post-body-loc")
-        postBody.appendChild(completionDiv)
+        location.href = './completion.html?rd=1&pid=' + value
       }
       break;
     case 2:
@@ -373,9 +369,7 @@ function randomization(condition) {
       postBodyLocLft.appendChild(finishRegistrationButtonLft)
 
       finishRegistrationButtonLft.onclick = function () {
-        completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
-        let postBody = document.getElementById("lft-vid-post-body-loc")
-        postBody.appendChild(completionDiv)
+        location.href = "./completion.html?rd=2&pid=" + value2
       }
       break;
     case 3:
@@ -389,8 +383,10 @@ function randomization(condition) {
       value3 = String(value3)
 
       //Ensure query parameters persist if participant clicks on other available links
-      let doorbleLogo3 = document.getElementById("doorble-logo")
-      doorbleLogo3.href = './homepage.html?rd=3&pid=' + value3
+      if (document.getElementById("doorble-logo") != null) {
+        let doorbleLogo3 = document.getElementById("doorble-logo")
+        doorbleLogo3.href = './homepage.html?rd=3&pid=' + value3
+      }
       if (document.getElementById("settings") != null) {
         let settings3 = document.getElementById("settings")
         settings3.href = './settings.html?rd=3&pid=' + value3
@@ -475,21 +471,20 @@ function randomization(condition) {
         let locLftVideoSettings = document.getElementById("locLftVideoSettings")
         locLftVideoSettings.href = './settings.html?rd=3&pid=' + value3
       }
-
-      let openUpButton = document.getElementById("openUp");
-      openUpButton.onclick = function () {
-        completionDiv.textContent = "Your completion code is 52532. You may now return to the survey, and after you enter your code, please close this tab."
-        let doorblePost = document.getElementById("doorble-post")
-        doorblePost.appendChild(completionDiv)
+      if (document.getElementById("openUp") != null) {
+        let openUpButton = document.getElementById("openUp");
+        openUpButton.onclick = function () {
+          location.href = './completion.html?rd=31&pid=' + value3
+        }
+      }
+      if (document.getElementById("hide_ad") != null) {
+        let hideAdElement = document.getElementById("hide_ad")
+        hideAdElement.onclick = function () {
+          hideAd()
+          location.href = './completion.html?rd=32&pid=' + value3
+        }
       }
 
-      let hideAdElement = document.getElementById("hide_ad")
-      hideAdElement.onclick = function () {
-        hideAd()
-        let abovePost = document.getElementById("doorble-post")
-        completionDiv.textContent = "Your completion code is 52539. You may now return to the survey, and after you enter your code, please close this tab."
-        abovePost.appendChild(completionDiv)
-      }
       break;
     case 4:
       //Get pid parameter
@@ -606,14 +601,10 @@ function randomization(condition) {
       finishTaskButton.textContent = "I'm done!"
       finishTaskButton.onclick = function () {
         if (document.getElementById("post-body-ads") != null) {
-          let postBodyAdsFinish = document.getElementById("post-body-ads")
-          completionDiv.textContent = "Your completion code is 52538. You may now return to the survey, and after you enter your code, please close this tab."
-          postBodyAdsFinish.appendChild(completionDiv)
+          location.href = './completion.html?rd=41&pid=' + value4
         }
         else {
-          let postBodyLocFinish = document.getElementById("post-body-loc")
-          completionDiv.textContent = "Your completion code is 52531. You may now return to the survey, and after you enter your code, please close this tab."
-          postBodyLocFinish.appendChild(completionDiv)
+          location.href = './completion.html?rd=42&pid=' + value4
         }
       }
 
@@ -750,14 +741,10 @@ function randomization(condition) {
       finishTaskButton5.textContent = "I'm done!"
       finishTaskButton5.onclick = function () {
         if (document.getElementById("lft-vid-post-body-ads") != null) {
-          let postBodyAds = document.getElementById("lft-vid-post-body-ads")
-          completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
-          postBodyAds.appendChild(completionDiv)
+          location.href = './completion.html?rd=51&pid=' + value5
         }
         if (document.getElementById("lft-vid-post-body-loc") != null) {
-          let postBodyLoc = document.getElementById("lft-vid-post-body-loc")
-          completionDiv.textContent = "Your completion code is 52530. You may now return to the survey, and after you enter your code, please close this tab."
-          postBodyLoc.appendChild(completionDiv)
+          location.href = './completion.html?rd=52&pid=' + value5
         }
 
       }
@@ -887,14 +874,12 @@ function randomization(condition) {
         button.textContent = "Finish review of this setting"
         button.id = "finishReview"
         button.onclick = function () {
-          completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
-          document.getElementById("ads_education").appendChild(completionDiv)
+          location.href = './completion.html?rd=61&pid=' + value6
         }
         if (document.getElementById("finishReview") == null) {
           div.appendChild(button)
           document.getElementById("ads_education").appendChild(div)
         }
-
       }
       let settingsLoc = document.getElementById("locSlider")
       settingsLoc.onclick = function () {
@@ -903,8 +888,7 @@ function randomization(condition) {
         button.textContent = "Finish review of this setting"
         button.id = "finishReview"
         button.onclick = function () {
-          completionDiv.textContent = "Your completion code is 52532. You may now return to the survey, and after you enter your code, please close this tab."
-          document.getElementById("location_education").appendChild(completionDiv)
+          location.href = './completion.html?rd=62&pid=' + value6
         }
         if (document.getElementById("finishReview") == null) {
           div.appendChild(button)
@@ -1013,8 +997,7 @@ function randomization(condition) {
       //in feed -sft
       let natureDislike = document.getElementById("natureDislike")
       natureDislike.onclick = function () {
-        completionDiv.textContent = "Your completion code is 52533. You may now return to the survey, and after you enter your code, please close this tab."
-        document.getElementById("naturePostActions").appendChild(completionDiv)
+        location.href = './completion.html?rd=7&pid=' + value7
       }
       break;
     case 8:
@@ -1113,8 +1096,7 @@ function randomization(condition) {
 
       let natureDislike2 = document.getElementById("natureDislike")
       natureDislike2.onclick = function () {
-        completionDiv.textContent = "Your completion code is 52537. You may now return to the survey, and after you enter your code, please close this tab."
-        document.getElementById("naturePostActions").appendChild(completionDiv)
+        location.href = './completion.html?rd=8&pid=' + value8
       }
       break;
     case 9:
@@ -1220,8 +1202,7 @@ function randomization(condition) {
 
       let natureDislike3 = document.getElementById("natureDislike")
       natureDislike3.onclick = function () {
-        completionDiv.textContent = "Your completion code is 52539. You may now return to the survey, and after you enter your code, please close this tab."
-        document.getElementById("naturePostActions").appendChild(completionDiv)
+        location.href = './completion.html?rd=9&pid=' + value9
       }
 
       break;
