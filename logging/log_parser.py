@@ -74,6 +74,8 @@ df.Date = pd.to_datetime(df.Date)
 #
 df = df[df.Date >= '22/Nov/2022']
 df = df[df['Prolific ID'] != '']
+print(df.columns)
+df = df[['Time','Prolific ID', 'Random', 'Pages Visited']]
 print(df)
 df.to_csv('logscleaned.csv')
 

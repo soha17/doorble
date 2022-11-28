@@ -1,145 +1,73 @@
-,Date,Time,Random,Prolific ID,Pages Visited,Raw lines
-5716,2022-11-22,22:01:48,rd=8,pid=null,/doorble/completion.html,"[22/Nov/2022:01:48:57 -0500] ""GET /doorble/completion.html?rd=8&pid=null HTTP/1.1"" ?rd=8&pid=null 200
-"
-5720,2022-11-22,22:02:09,rd=7,pid=60fe1cbecd42cd789f9a4089,,"[22/Nov/2022:02:09:31 -0500] ""GET /doorble/homepage?rd=7&pid=60fe1cbecd42cd789f9a4089 HTTP/1.1"" ?rd=7&pid=60fe1cbecd42cd789f9a4089 200
-"
-5755,2022-11-22,22:02:09,rd=7,pid=60fe1cbecd42cd789f9a4089,/doorble/completion.html,"[22/Nov/2022:02:09:42 -0500] ""GET /doorble/completion.html?rd=7&pid=60fe1cbecd42cd789f9a4089 HTTP/1.1"" ?rd=7&pid=60fe1cbecd42cd789f9a4089 200
-"
-5765,2022-11-22,22:02:11,rd=7,pid=60fe1cbecd42cd789f9a4089,/doorble/ads_lft.html,"[22/Nov/2022:02:11:26 -0500] ""GET /doorble/ads_lft.html?rd=7&pid=60fe1cbecd42cd789f9a4089 HTTP/1.1"" ?rd=7&pid=60fe1cbecd42cd789f9a4089 200
-"
-5768,2022-11-22,22:02:11,rd=7,pid=60fe1cbecd42cd789f9a4089,/doorble/settings.html,"[22/Nov/2022:02:11:57 -0500] ""GET /doorble/settings.html?rd=7&pid=60fe1cbecd42cd789f9a4089 HTTP/1.1"" ?rd=7&pid=60fe1cbecd42cd789f9a4089 200
-"
-5779,2022-11-22,22:02:14,rd=3,pid=5e80d4b3a33aaa00097566e1,,"[22/Nov/2022:02:14:31 -0500] ""GET /doorble/homepage?rd=3&pid=5e80d4b3a33aaa00097566e1 HTTP/1.1"" ?rd=3&pid=5e80d4b3a33aaa00097566e1 200
-"
-5812,2022-11-22,22:02:15,rd=9,pid=5f120703b1f46a11e7966ee4,,"[22/Nov/2022:02:15:49 -0500] ""GET /doorble/homepage?rd=9&pid=5f120703b1f46a11e7966ee4 HTTP/1.1"" ?rd=9&pid=5f120703b1f46a11e7966ee4 200
-"
-5849,2022-11-22,22:02:16,rd=3,pid=5e80d4b3a33aaa00097566e1,/doorble/completion.html,"[22/Nov/2022:02:16:57 -0500] ""GET /doorble/completion.html?rd=31&pid=5e80d4b3a33aaa00097566e1 HTTP/1.1"" ?rd=31&pid=5e80d4b3a33aaa00097566e1 200
-"
-5853,2022-11-22,22:02:18,rd=3,pid=5e80d4b3a33aaa00097566e1,/doorble/completion.html,"[22/Nov/2022:02:18:06 -0500] ""GET /doorble/completion.html?rd=32&pid=5e80d4b3a33aaa00097566e1 HTTP/1.1"" ?rd=32&pid=5e80d4b3a33aaa00097566e1 200
-"
-5856,2022-11-22,22:02:19,rd=3,pid=SV_cO3AKtgfjaDuEtg,,"[22/Nov/2022:02:19:03 -0500] ""GET /doorble/homepage?rd=3&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=3&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5861,2022-11-22,22:02:19,rd=3,pid=SV_cO3AKtgfjaDuEtg,/doorble/completion.html,"[22/Nov/2022:02:19:09 -0500] ""GET /doorble/completion.html?rd=32&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=32&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5864,2022-11-22,22:02:19,rd=4,pid=5eed0ca437a90c1144408f00,,"[22/Nov/2022:02:19:50 -0500] ""GET /doorble/homepage?rd=4&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=4&pid=5eed0ca437a90c1144408f00 200
-"
-5898,2022-11-22,22:02:19,rd=4,pid=5eed0ca437a90c1144408f00,/doorble/helpcenter.html,"[22/Nov/2022:02:19:57 -0500] ""GET /doorble/helpcenter.html?rd=4&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=4&pid=5eed0ca437a90c1144408f00 200
-"
-5902,2022-11-22,22:02:20,rd=4,pid=5eed0ca437a90c1144408f00,/doorble/ads_sft_img.html,"[22/Nov/2022:02:20:09 -0500] ""GET /doorble/ads_sft_img.html?rd=4&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=4&pid=5eed0ca437a90c1144408f00 200
-"
-5905,2022-11-22,22:02:20,rd=4,pid=5eed0ca437a90c1144408f00,/doorble/completion.html,"[22/Nov/2022:02:20:16 -0500] ""GET /doorble/completion.html?rd=41&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=41&pid=5eed0ca437a90c1144408f00 200
-"
-5909,2022-11-22,22:02:20,rd=3,pid=SV_cO3AKtgfjaDuEtg,/doorble/completion.html,"[22/Nov/2022:02:20:17 -0500] ""GET /doorble/completion.html?rd=31&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=31&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5912,2022-11-22,22:02:20,rd=3,pid=SV_cO3AKtgfjaDuEtg,/doorble/settings.html,"[22/Nov/2022:02:20:40 -0500] ""GET /doorble/settings.html?rd=3&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=3&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5916,2022-11-22,22:02:20,rd=4,pid=SV_cO3AKtgfjaDuEtg,,"[22/Nov/2022:02:20:47 -0500] ""GET /doorble/homepage?rd=4&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=4&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5922,2022-11-22,22:02:20,rd=4,pid=SV_cO3AKtgfjaDuEtg,/doorble/helpcenter.html,"[22/Nov/2022:02:20:49 -0500] ""GET /doorble/helpcenter.html?rd=4&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=4&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5926,2022-11-22,22:02:20,rd=4,pid=SV_cO3AKtgfjaDuEtg,/doorble/loc_sft_img.html,"[22/Nov/2022:02:20:51 -0500] ""GET /doorble/loc_sft_img.html?rd=4&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=4&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5929,2022-11-22,22:02:21,rd=4,pid=SV_cO3AKtgfjaDuEtg,/doorble/completion.html,"[22/Nov/2022:02:21:00 -0500] ""GET /doorble/completion.html?rd=42&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=42&pid=SV_cO3AKtgfjaDuEtg 200
-"
-5941,2022-11-22,22:02:23,rd=4,pid=5eed0ca437a90c1144408f00,/doorble/ads_lft.html,"[22/Nov/2022:02:23:51 -0500] ""GET /doorble/ads_lft.html?rd=4&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=4&pid=5eed0ca437a90c1144408f00 200
-"
-5947,2022-11-22,22:02:26,rd=4,pid=5eed0ca437a90c1144408f00,/doorble/loc_sft_img.html,"[22/Nov/2022:02:26:53 -0500] ""GET /doorble/loc_sft_img.html?rd=4&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=4&pid=5eed0ca437a90c1144408f00 200
-"
-5950,2022-11-22,22:02:26,rd=4,pid=5eed0ca437a90c1144408f00,/doorble/loc_lft.html,"[22/Nov/2022:02:26:57 -0500] ""GET /doorble/loc_lft.html?rd=4&pid=5eed0ca437a90c1144408f00 HTTP/1.1"" ?rd=4&pid=5eed0ca437a90c1144408f00 200
-"
-5953,2022-11-22,22:02:26,rd=3,pid=5e80d4b3a33aaa00097566e1,/doorble/ads_lft.html,"[22/Nov/2022:02:26:58 -0500] ""GET /doorble/ads_lft.html?rd=3&pid=5e80d4b3a33aaa00097566e1 HTTP/1.1"" ?rd=3&pid=5e80d4b3a33aaa00097566e1 200
-"
-5956,2022-11-22,22:02:28,rd=8,pid=58477607f1b9b3000192bb01,,"[22/Nov/2022:02:28:06 -0500] ""GET /doorble/homepage?rd=8&pid=58477607f1b9b3000192bb01 HTTP/1.1"" ?rd=8&pid=58477607f1b9b3000192bb01 200
-"
-5991,2022-11-22,22:02:28,rd=8,pid=58477607f1b9b3000192bb01,/doorble/completion.html,"[22/Nov/2022:02:28:41 -0500] ""GET /doorble/completion.html?rd=8&pid=58477607f1b9b3000192bb01 HTTP/1.1"" ?rd=8&pid=58477607f1b9b3000192bb01 200
-"
-5996,2022-11-22,22:02:30,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/registration,"[22/Nov/2022:02:30:48 -0500] ""GET /doorble/registration?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6017,2022-11-22,22:02:31,rd=2,pid=5f342a35aea7432daf29219d,/doorble/registration,"[22/Nov/2022:02:31:18 -0500] ""GET /doorble/registration?rd=2&pid=5f342a35aea7432daf29219d HTTP/1.1"" ?rd=2&pid=5f342a35aea7432daf29219d 200
-"
-6033,2022-11-22,22:02:31,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/ads_sft_img.html,"[22/Nov/2022:02:31:30 -0500] ""GET /doorble/ads_sft_img.html?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6038,2022-11-22,22:02:31,rd=2,pid=5f342a35aea7432daf29219d,/doorble/ads_lft_video.html,"[22/Nov/2022:02:31:41 -0500] ""GET /doorble/ads_lft_video.html?rd=2&pid=5f342a35aea7432daf29219d HTTP/1.1"" ?rd=2&pid=5f342a35aea7432daf29219d 200
-"
-6043,2022-11-22,22:02:31,rd=2,pid=5f342a35aea7432daf29219d,/doorble/loc_lft_video.html,"[22/Nov/2022:02:31:47 -0500] ""GET /doorble/loc_lft_video.html?rd=2&pid=5f342a35aea7432daf29219d HTTP/1.1"" ?rd=2&pid=5f342a35aea7432daf29219d 200
-"
-6047,2022-11-22,22:02:31,rd=2,pid=5f342a35aea7432daf29219d,/doorble/completion.html,"[22/Nov/2022:02:31:50 -0500] ""GET /doorble/completion.html?rd=2&pid=5f342a35aea7432daf29219d HTTP/1.1"" ?rd=2&pid=5f342a35aea7432daf29219d 200
-"
-6051,2022-11-22,22:02:31,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/settings.html,"[22/Nov/2022:02:31:53 -0500] ""GET /doorble/settings.html?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6055,2022-11-22,22:02:32,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/loc_sft_img.html,"[22/Nov/2022:02:32:21 -0500] ""GET /doorble/loc_sft_img.html?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6062,2022-11-22,22:02:32,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/completion.html,"[22/Nov/2022:02:32:32 -0500] ""GET /doorble/completion.html?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6066,2022-11-22,22:02:32,rd=7,pid=5e57fdd4ba0130000c520c46,,"[22/Nov/2022:02:32:59 -0500] ""GET /doorble/homepage?rd=7&pid=5e57fdd4ba0130000c520c46 HTTP/1.1"" ?rd=7&pid=5e57fdd4ba0130000c520c46 200
-"
-6107,2022-11-22,22:02:34,rd=7,pid=5e57fdd4ba0130000c520c46,/doorble/ads_lft.html,"[22/Nov/2022:02:34:29 -0500] ""GET /doorble/ads_lft.html?rd=7&pid=5e57fdd4ba0130000c520c46 HTTP/1.1"" ?rd=7&pid=5e57fdd4ba0130000c520c46 200
-"
-6113,2022-11-22,22:02:34,rd=8,pid=5e98e245aa25c6120f522a40,,"[22/Nov/2022:02:34:40 -0500] ""GET /doorble/homepage?rd=8&pid=5e98e245aa25c6120f522a40 HTTP/1.1"" ?rd=8&pid=5e98e245aa25c6120f522a40 200
-"
-6151,2022-11-22,22:02:35,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/ads_lft.html,"[22/Nov/2022:02:35:26 -0500] ""GET /doorble/ads_lft.html?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6155,2022-11-22,22:02:35,rd=8,pid=5e98e245aa25c6120f522a40,/doorble/completion.html,"[22/Nov/2022:02:35:51 -0500] ""GET /doorble/completion.html?rd=8&pid=5e98e245aa25c6120f522a40 HTTP/1.1"" ?rd=8&pid=5e98e245aa25c6120f522a40 200
-"
-6163,2022-11-22,22:02:36,rd=3,pid=5ee8c7fc15b7921df9c2d2a6,,"[22/Nov/2022:02:36:39 -0500] ""GET /doorble/homepage?rd=3&pid=5ee8c7fc15b7921df9c2d2a6 HTTP/1.1"" ?rd=3&pid=5ee8c7fc15b7921df9c2d2a6 200
-"
-6198,2022-11-22,22:02:37,rd=3,pid=5ee8c7fc15b7921df9c2d2a6,/doorble/completion.html,"[22/Nov/2022:02:37:15 -0500] ""GET /doorble/completion.html?rd=31&pid=5ee8c7fc15b7921df9c2d2a6 HTTP/1.1"" ?rd=31&pid=5ee8c7fc15b7921df9c2d2a6 200
-"
-6209,2022-11-22,22:02:38,rd=3,pid=SV_cO3AKtgfjaDuEtg,,"[22/Nov/2022:02:38:21 -0500] ""GET /doorble/homepage?rd=3&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=3&pid=SV_cO3AKtgfjaDuEtg 200
-"
-6216,2022-11-22,22:02:38,rd=3,pid=SV_cO3AKtgfjaDuEtg,/doorble/completion.html,"[22/Nov/2022:02:38:36 -0500] ""GET /doorble/completion.html?rd=32&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=32&pid=SV_cO3AKtgfjaDuEtg 200
-"
-6225,2022-11-22,22:02:39,rd=8,pid=5e98e245aa25c6120f522a40,/doorble/ads_lft.html,"[22/Nov/2022:02:39:40 -0500] ""GET /doorble/ads_lft.html?rd=8&pid=5e98e245aa25c6120f522a40 HTTP/1.1"" ?rd=8&pid=5e98e245aa25c6120f522a40 200
-"
-6233,2022-11-22,22:02:40,rd=3,pid=5ee8c7fc15b7921df9c2d2a6,/doorble/ads_lft.html,"[22/Nov/2022:02:40:32 -0500] ""GET /doorble/ads_lft.html?rd=3&pid=5ee8c7fc15b7921df9c2d2a6 HTTP/1.1"" ?rd=3&pid=5ee8c7fc15b7921df9c2d2a6 200
-"
-6236,2022-11-22,22:02:40,rd=7,pid=5e57fdd4ba0130000c520c46,/doorble/settings.html,"[22/Nov/2022:02:40:42 -0500] ""GET /doorble/settings.html?rd=7&pid=5e57fdd4ba0130000c520c46 HTTP/1.1"" ?rd=7&pid=5e57fdd4ba0130000c520c46 200
-"
-6246,2022-11-22,22:02:41,rd=8,pid=58477607f1b9b3000192bb01,/doorble/loc_lft.html,"[22/Nov/2022:02:41:59 -0500] ""GET /doorble/loc_lft.html?rd=8&pid=58477607f1b9b3000192bb01 HTTP/1.1"" ?rd=8&pid=58477607f1b9b3000192bb01 200
-"
-6251,2022-11-22,22:02:45,rd=1,pid=591be15e630b1e00018f7dd0,/doorble/loc_lft.html,"[22/Nov/2022:02:45:01 -0500] ""GET /doorble/loc_lft.html?rd=1&pid=591be15e630b1e00018f7dd0 HTTP/1.1"" ?rd=1&pid=591be15e630b1e00018f7dd0 200
-"
-6260,2022-11-22,22:02:49,rd=3,pid=5ee8c7fc15b7921df9c2d2a6,/doorble/loc_lft.html,"[22/Nov/2022:02:49:36 -0500] ""GET /doorble/loc_lft.html?rd=3&pid=5ee8c7fc15b7921df9c2d2a6 HTTP/1.1"" ?rd=3&pid=5ee8c7fc15b7921df9c2d2a6 200
-"
-6267,2022-11-22,22:02:50,rd=8,pid=5e98e245aa25c6120f522a40,/doorble/loc_lft.html,"[22/Nov/2022:02:50:04 -0500] ""GET /doorble/loc_lft.html?rd=8&pid=5e98e245aa25c6120f522a40 HTTP/1.1"" ?rd=8&pid=5e98e245aa25c6120f522a40 200
-"
-6270,2022-11-22,22:02:52,rd=8,pid=5e98e245aa25c6120f522a40,/doorble/settings.html,"[22/Nov/2022:02:52:49 -0500] ""GET /doorble/settings.html?rd=8&pid=5e98e245aa25c6120f522a40 HTTP/1.1"" ?rd=8&pid=5e98e245aa25c6120f522a40 200
-"
-6275,2022-11-22,22:02:55,rd=1,pid=632364b4d82340a8534faa0b,/doorble/registration,"[22/Nov/2022:02:55:03 -0500] ""GET /doorble/registration?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6291,2022-11-22,22:02:55,rd=1,pid=632364b4d82340a8534faa0b,/doorble/ads_sft_img.html,"[22/Nov/2022:02:55:41 -0500] ""GET /doorble/ads_sft_img.html?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6296,2022-11-22,22:02:55,rd=1,pid=632364b4d82340a8534faa0b,/doorble/settings.html,"[22/Nov/2022:02:55:55 -0500] ""GET /doorble/settings.html?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6300,2022-11-22,22:02:55,rd=1,pid=632364b4d82340a8534faa0b,/doorble/loc_sft_img.html,"[22/Nov/2022:02:55:56 -0500] ""GET /doorble/loc_sft_img.html?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6304,2022-11-22,22:02:56,rd=1,pid=632364b4d82340a8534faa0b,/doorble/completion.html,"[22/Nov/2022:02:56:11 -0500] ""GET /doorble/completion.html?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6308,2022-11-22,22:02:58,rd=8,pid=5e98e245aa25c6120f522a40,/doorble/homepage.html,"[22/Nov/2022:02:58:08 -0500] ""GET /doorble/homepage.html?rd=8&pid=5e98e245aa25c6120f522a40 HTTP/1.1"" ?rd=8&pid=5e98e245aa25c6120f522a40 200
-"
-6314,2022-11-22,22:02:59,rd=1,pid=632364b4d82340a8534faa0b,/doorble/ads_lft.html,"[22/Nov/2022:02:59:18 -0500] ""GET /doorble/ads_lft.html?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6319,2022-11-22,22:03:03,rd=1,pid=632364b4d82340a8534faa0b,/doorble/loc_lft.html,"[22/Nov/2022:03:03:18 -0500] ""GET /doorble/loc_lft.html?rd=1&pid=632364b4d82340a8534faa0b HTTP/1.1"" ?rd=1&pid=632364b4d82340a8534faa0b 200
-"
-6330,2022-11-22,22:03:31,rd=5,pid=5fbae54831099083583afff0,,"[22/Nov/2022:03:31:27 -0500] ""GET /doorble/homepage?rd=5&pid=5fbae54831099083583afff0 HTTP/1.1"" ?rd=5&pid=5fbae54831099083583afff0 200
-"
-6364,2022-11-22,22:03:31,rd=5,pid=5fbae54831099083583afff0,/doorble/helpcenter.html,"[22/Nov/2022:03:31:37 -0500] ""GET /doorble/helpcenter.html?rd=5&pid=5fbae54831099083583afff0 HTTP/1.1"" ?rd=5&pid=5fbae54831099083583afff0 200
-"
-6368,2022-11-22,22:03:31,rd=5,pid=5fbae54831099083583afff0,/doorble/ads_lft_video.html,"[22/Nov/2022:03:31:51 -0500] ""GET /doorble/ads_lft_video.html?rd=5&pid=5fbae54831099083583afff0 HTTP/1.1"" ?rd=5&pid=5fbae54831099083583afff0 200
-"
-6372,2022-11-22,22:03:32,rd=5,pid=5fbae54831099083583afff0,/doorble/completion.html,"[22/Nov/2022:03:32:39 -0500] ""GET /doorble/completion.html?rd=51&pid=5fbae54831099083583afff0 HTTP/1.1"" ?rd=51&pid=5fbae54831099083583afff0 200
-"
-6378,2022-11-22,22:03:33,rd=5,pid=SV_cO3AKtgfjaDuEtg,,"[22/Nov/2022:03:33:08 -0500] ""GET /doorble/homepage?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
-"
-6382,2022-11-22,22:03:33,rd=5,pid=SV_cO3AKtgfjaDuEtg,/doorble/helpcenter.html,"[22/Nov/2022:03:33:15 -0500] ""GET /doorble/helpcenter.html?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
-"
-6386,2022-11-22,22:03:33,rd=5,pid=SV_cO3AKtgfjaDuEtg,/doorble/loc_lft_video.html,"[22/Nov/2022:03:33:17 -0500] ""GET /doorble/loc_lft_video.html?rd=5&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=5&pid=SV_cO3AKtgfjaDuEtg 200
-"
-6389,2022-11-22,22:03:33,rd=5,pid=SV_cO3AKtgfjaDuEtg,/doorble/completion.html,"[22/Nov/2022:03:33:25 -0500] ""GET /doorble/completion.html?rd=52&pid=SV_cO3AKtgfjaDuEtg HTTP/1.1"" ?rd=52&pid=SV_cO3AKtgfjaDuEtg 200
-"
-6402,2022-11-22,22:03:43,rd=5,pid=5fbae54831099083583afff0,/doorble/loc_lft_video.html,"[22/Nov/2022:03:43:24 -0500] ""GET /doorble/loc_lft_video.html?rd=5&pid=5fbae54831099083583afff0 HTTP/1.1"" ?rd=5&pid=5fbae54831099083583afff0 200
-"
-6406,2022-11-22,22:04:01,rd=7,pid=5e57fdd4ba0130000c520c46,/doorble/completion.html,"[22/Nov/2022:04:01:36 -0500] ""GET /doorble/completion.html?rd=7&pid=5e57fdd4ba0130000c520c46 HTTP/1.1"" ?rd=7&pid=5e57fdd4ba0130000c520c46 200
-"
-6412,2022-11-22,22:10:14,rd=3,pid=1234,,"[22/Nov/2022:10:14:55 -0500] ""GET /doorble/website%20v1/homepage.html?rd=3&pid=1234 HTTP/1.1"" ?rd=3&pid=1234 404
-"
+,Time,Prolific ID,Random,Pages Visited
+5716,22:01:48,pid=null,rd=8,/doorble/completion.html
+5720,22:02:09,pid=60fe1cbecd42cd789f9a4089,rd=7,
+5755,22:02:09,pid=60fe1cbecd42cd789f9a4089,rd=7,/doorble/completion.html
+5765,22:02:11,pid=60fe1cbecd42cd789f9a4089,rd=7,/doorble/ads_lft.html
+5768,22:02:11,pid=60fe1cbecd42cd789f9a4089,rd=7,/doorble/settings.html
+5779,22:02:14,pid=5e80d4b3a33aaa00097566e1,rd=3,
+5812,22:02:15,pid=5f120703b1f46a11e7966ee4,rd=9,
+5849,22:02:16,pid=5e80d4b3a33aaa00097566e1,rd=3,/doorble/completion.html
+5853,22:02:18,pid=5e80d4b3a33aaa00097566e1,rd=3,/doorble/completion.html
+5856,22:02:19,pid=SV_cO3AKtgfjaDuEtg,rd=3,
+5861,22:02:19,pid=SV_cO3AKtgfjaDuEtg,rd=3,/doorble/completion.html
+5864,22:02:19,pid=5eed0ca437a90c1144408f00,rd=4,
+5898,22:02:19,pid=5eed0ca437a90c1144408f00,rd=4,/doorble/helpcenter.html
+5902,22:02:20,pid=5eed0ca437a90c1144408f00,rd=4,/doorble/ads_sft_img.html
+5905,22:02:20,pid=5eed0ca437a90c1144408f00,rd=4,/doorble/completion.html
+5909,22:02:20,pid=SV_cO3AKtgfjaDuEtg,rd=3,/doorble/completion.html
+5912,22:02:20,pid=SV_cO3AKtgfjaDuEtg,rd=3,/doorble/settings.html
+5916,22:02:20,pid=SV_cO3AKtgfjaDuEtg,rd=4,
+5922,22:02:20,pid=SV_cO3AKtgfjaDuEtg,rd=4,/doorble/helpcenter.html
+5926,22:02:20,pid=SV_cO3AKtgfjaDuEtg,rd=4,/doorble/loc_sft_img.html
+5929,22:02:21,pid=SV_cO3AKtgfjaDuEtg,rd=4,/doorble/completion.html
+5941,22:02:23,pid=5eed0ca437a90c1144408f00,rd=4,/doorble/ads_lft.html
+5947,22:02:26,pid=5eed0ca437a90c1144408f00,rd=4,/doorble/loc_sft_img.html
+5950,22:02:26,pid=5eed0ca437a90c1144408f00,rd=4,/doorble/loc_lft.html
+5953,22:02:26,pid=5e80d4b3a33aaa00097566e1,rd=3,/doorble/ads_lft.html
+5956,22:02:28,pid=58477607f1b9b3000192bb01,rd=8,
+5991,22:02:28,pid=58477607f1b9b3000192bb01,rd=8,/doorble/completion.html
+5996,22:02:30,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/registration
+6017,22:02:31,pid=5f342a35aea7432daf29219d,rd=2,/doorble/registration
+6033,22:02:31,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/ads_sft_img.html
+6038,22:02:31,pid=5f342a35aea7432daf29219d,rd=2,/doorble/ads_lft_video.html
+6043,22:02:31,pid=5f342a35aea7432daf29219d,rd=2,/doorble/loc_lft_video.html
+6047,22:02:31,pid=5f342a35aea7432daf29219d,rd=2,/doorble/completion.html
+6051,22:02:31,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/settings.html
+6055,22:02:32,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/loc_sft_img.html
+6062,22:02:32,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/completion.html
+6066,22:02:32,pid=5e57fdd4ba0130000c520c46,rd=7,
+6107,22:02:34,pid=5e57fdd4ba0130000c520c46,rd=7,/doorble/ads_lft.html
+6113,22:02:34,pid=5e98e245aa25c6120f522a40,rd=8,
+6151,22:02:35,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/ads_lft.html
+6155,22:02:35,pid=5e98e245aa25c6120f522a40,rd=8,/doorble/completion.html
+6163,22:02:36,pid=5ee8c7fc15b7921df9c2d2a6,rd=3,
+6198,22:02:37,pid=5ee8c7fc15b7921df9c2d2a6,rd=3,/doorble/completion.html
+6209,22:02:38,pid=SV_cO3AKtgfjaDuEtg,rd=3,
+6216,22:02:38,pid=SV_cO3AKtgfjaDuEtg,rd=3,/doorble/completion.html
+6225,22:02:39,pid=5e98e245aa25c6120f522a40,rd=8,/doorble/ads_lft.html
+6233,22:02:40,pid=5ee8c7fc15b7921df9c2d2a6,rd=3,/doorble/ads_lft.html
+6236,22:02:40,pid=5e57fdd4ba0130000c520c46,rd=7,/doorble/settings.html
+6246,22:02:41,pid=58477607f1b9b3000192bb01,rd=8,/doorble/loc_lft.html
+6251,22:02:45,pid=591be15e630b1e00018f7dd0,rd=1,/doorble/loc_lft.html
+6260,22:02:49,pid=5ee8c7fc15b7921df9c2d2a6,rd=3,/doorble/loc_lft.html
+6267,22:02:50,pid=5e98e245aa25c6120f522a40,rd=8,/doorble/loc_lft.html
+6270,22:02:52,pid=5e98e245aa25c6120f522a40,rd=8,/doorble/settings.html
+6275,22:02:55,pid=632364b4d82340a8534faa0b,rd=1,/doorble/registration
+6291,22:02:55,pid=632364b4d82340a8534faa0b,rd=1,/doorble/ads_sft_img.html
+6296,22:02:55,pid=632364b4d82340a8534faa0b,rd=1,/doorble/settings.html
+6300,22:02:55,pid=632364b4d82340a8534faa0b,rd=1,/doorble/loc_sft_img.html
+6304,22:02:56,pid=632364b4d82340a8534faa0b,rd=1,/doorble/completion.html
+6308,22:02:58,pid=5e98e245aa25c6120f522a40,rd=8,/doorble/homepage.html
+6314,22:02:59,pid=632364b4d82340a8534faa0b,rd=1,/doorble/ads_lft.html
+6319,22:03:03,pid=632364b4d82340a8534faa0b,rd=1,/doorble/loc_lft.html
+6330,22:03:31,pid=5fbae54831099083583afff0,rd=5,
+6364,22:03:31,pid=5fbae54831099083583afff0,rd=5,/doorble/helpcenter.html
+6368,22:03:31,pid=5fbae54831099083583afff0,rd=5,/doorble/ads_lft_video.html
+6372,22:03:32,pid=5fbae54831099083583afff0,rd=5,/doorble/completion.html
+6378,22:03:33,pid=SV_cO3AKtgfjaDuEtg,rd=5,
+6382,22:03:33,pid=SV_cO3AKtgfjaDuEtg,rd=5,/doorble/helpcenter.html
+6386,22:03:33,pid=SV_cO3AKtgfjaDuEtg,rd=5,/doorble/loc_lft_video.html
+6389,22:03:33,pid=SV_cO3AKtgfjaDuEtg,rd=5,/doorble/completion.html
+6402,22:03:43,pid=5fbae54831099083583afff0,rd=5,/doorble/loc_lft_video.html
+6406,22:04:01,pid=5e57fdd4ba0130000c520c46,rd=7,/doorble/completion.html
+6412,22:10:14,pid=1234,rd=3,
