@@ -19,14 +19,14 @@ date_pattern = r'(([0-9])|([0-2][0-9])|([3][0-1]))\/(Jan|Feb|Mar|Apr|May|Jun|Jul
 time_pattern = r'(?:[01]\d|2[0123]):(?:[012345]\d):(?:[012345]\d)'
 rd_pattern = r'rd=[0-9]'
 pid_pattern = r'pid=[A-Za-z0-9_]+'
-pages_visited_pattern = r'/doorble/(registration+.html|homepage+.html|[a-zA-Z0-9_\-]+.html)' 
+pages_visited_pattern = r'/doorble/(registration|homepage+.html|[a-zA-Z0-9_\-]+.html)' 
 
 
 # ok so we're getting the file name for every file in logs
 for file in os.listdir("logs"):
     filename = os.fsdecode(file)
     # use condition to grab a specific log file -- should only need the most recent log file since each file will contain the full log history.
-    if (filename == "logs11202022.txt"):
+    if (filename == "logs11222022.txt"):
         #  print(filename)
         #  print(os.listdir())
         # got the file name -> now need to parse through it and make a bad boi df
@@ -72,10 +72,13 @@ for file in os.listdir("logs"):
 # Convert date to datetime
 df.Date = pd.to_datetime(df.Date)
 #
-df = df[df.Date >= '20/Nov/2022']
+df = df[df.Date >= '22/Nov/2022']
 df = df[df['Prolific ID'] != '']
 print(df)
 df.to_csv('logscleaned.csv')
+
+# Check that we have all pages in our cleaned data
+print(df['Pages Visited'].unique())
 
 # Analytics
 # Pages Visited by PID
@@ -90,6 +93,7 @@ reshapedDf = df.pivot_table(values=None, index=['Prolific ID', 'Random'],columns
 # Fix reshape
 reshapedDf = reshapedDf['Date']
 print(reshapedDf)
+print(reshapedDf.columns)
 """
 conditions 1 & 4 will both need to click on the sft + img pages. Condition 8 will see the content for these pages in their feed but
 only has the ability to click on the related lft pages.
@@ -97,8 +101,8 @@ Note: the first condition met will trigger the corresponding number from the cho
 """
 
 condList = [
-(pd.notnull(reshapedDf['/doorble/registration.html']) & pd.notnull(reshapedDf['/doorble/ads_sft_img.html']) & (pd.notnull(reshapedDf['/doorble/loc_sft_img.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #1
-(pd.notnull(reshapedDf['/doorble/registration.html']) & pd.notnull(reshapedDf['/doorble/ads_lft_video.html']) & (pd.notnull(reshapedDf['/doorble/loc_lft_video.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #2
+(pd.notnull(reshapedDf['/doorble/registration']) & pd.notnull(reshapedDf['/doorble/ads_sft_img.html']) & (pd.notnull(reshapedDf['/doorble/loc_sft_img.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #1
+(pd.notnull(reshapedDf['/doorble/registration']) & pd.notnull(reshapedDf['/doorble/ads_lft_video.html']) & (pd.notnull(reshapedDf['/doorble/loc_lft_video.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #2
 (pd.notnull(reshapedDf['/doorble/ads_sft_img.html']) & (pd.notnull(reshapedDf['/doorble/loc_sft_img.html'])) & (pd.notnull(reshapedDf['/doorble/helpcenter.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #4
 (pd.notnull(reshapedDf['/doorble/ads_lft_video.html']) & (pd.notnull(reshapedDf['/doorble/loc_lft_video.html'])) & (pd.notnull(reshapedDf['/doorble/helpcenter.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #5
 (pd.notnull(reshapedDf['/doorble/homepage.html']) & (pd.notnull(reshapedDf['/doorble/settings.html'])) & (pd.notnull(reshapedDf['/doorble/completion.html']))), #6
