@@ -19,7 +19,7 @@ date_pattern = r'(([0-9])|([0-2][0-9])|([3][0-1]))\/(Jan|Feb|Mar|Apr|May|Jun|Jul
 time_pattern = r'(?:[01]\d|2[0123]):(?:[012345]\d):(?:[012345]\d)'
 rd_pattern = r'rd=[0-9]'
 pid_pattern = r'pid=[A-Za-z0-9_]+'
-pages_visited_pattern = r'/doorble/(registration|homepage+.html|[a-zA-Z0-9_\-]+.html)' 
+pages_visited_pattern = r'/doorble/(registration+.html|registration|homepage+.html|homepage|[a-zA-Z0-9_\-]+.html)' 
 
 
 # ok so we're getting the file name for every file in logs
