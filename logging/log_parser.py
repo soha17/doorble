@@ -16,7 +16,7 @@ raw_lines = []
 
 # figuring out all the patterns
 date_pattern = r'(([0-9])|([0-2][0-9])|([3][0-1]))\/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\/\d{4}'
-time_pattern = r'(?:[01]\d|2[0123]):(?:[012345]\d):(?:[012345]\d)'
+time_pattern = r'(?:[01]\d|2[0123]):(?:[012345]\d):(?:[012345]\d):(?:[012345]\d)'
 rd_pattern = r'rd=[0-9]'
 pid_pattern = r'pid=[A-Za-z0-9_]+'
 pages_visited_pattern = r'/doorble/(registration+.html|registration|homepage+.html|homepage|[a-zA-Z0-9_\-]+.html)' 
@@ -77,10 +77,12 @@ df = df[df['Prolific ID'] != 'pid=null']
 print(df.columns)
 df = df[['Date','Time','Prolific ID', 'Random', 'Pages Visited']]
 print(df)
+df['Time'] = pd.to_datetime(df['Time'], format = '%d:%H:%M:%S')
+print(df)
 df.to_csv('logscleaned.csv')
 
-# # Check that we have all pages in our cleaned data
-print(df['Pages Visited'].unique())
+# # # Check that we have all pages in our cleaned data
+# print(df['Pages Visited'].unique())
 
 # # Analytics -- moving to google drive.
 # # Pages Visited by PID
@@ -119,7 +121,8 @@ print(df['Pages Visited'].unique())
 # # print(reshapedDf['reachedCompletion'].value_counts()[0])
 
 # # Time spent across pages
-# df['Time'] = pd.to_datetime(df['Time'])
+# df['Time'] = pd.to_datetime(df['Time'], format = '%d:%H:%M:%S')
+# print(df)
 # timeSpentDf = df.groupby(['Prolific ID', 'Random']).agg(starttime = ('Time', np.min),
 # endtime = ('Time', np.max))
 # timeSpentDf['timespent'] = timeSpentDf['endtime'] - timeSpentDf['starttime']
